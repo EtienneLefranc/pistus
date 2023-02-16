@@ -1,0 +1,63 @@
+add_edit_student,Ajouter/modifier un étudiant
+add_registration,Ajouter une inscription
+edit_registration,Modifier une inscription
+stud_number,Matricule
+first_name,Prénom
+last_name,Nom
+gender,Sexe
+email_address,Adresse électronique
+alternate_email_address,Autre adresse électronique
+first_association,Première association
+second_association,Deuxième association
+third_association,Troisième association
+enter_identifier,Saisissez un identifiant valide
+enter_first_name,Saisissez le prénom
+enter_last_name,Saisissez le nom
+select_gender,Sélectionnez le sexe
+enter_email_address,Saisissez une adresse électronique valide
+invalid_identifier,!!N'utilisez que des chiffres!!
+invalid_email_address,!!Adresse électronique non valide!!
+add_button,Ajouter
+edit_button,Modifier
+clear_button,Effacer
+cancel_button,Annuler
+delete_button,Supprimer
+duplicate_stud_number,Erreur : matricule déjà utilisée
+duplicate_email_address,Erreur : cette adresse électronique est déjà utilisée :
+unexpected_error,Erreur inattendue dans la base de données.
+duplicate_membership,Erreur : étudiant déjà affecté à cette association :
+duplicate_registration,Erreur : étudiant déjà inscrit à cette édition :
+student_added,Étudiant ajouté avec succès !
+student_edited,Etudiant modifié avec succès !
+enter_year,Saisissez l'année
+enter_date,Saisissez une date valide
+invalid_year,!! Doit être >= l'année en cours !!
+invalid_date,!! Ça doit être JJ/MM/AAAA !!
+invalid_payment_date,!! Doit être >= date d'enregistrement !!
+invalid_registration_date,!! Doit être en 
+enter_registration_fee,Saisissez les frais d'inscription
+invalid_registration_fee,!! Ça doit être un numéro réel !!
+registration_added,L'inscription a été ajoutée avec succès !
+registration_edited,L'inscription a été modifiée avec succès !
+registration_deleted,Inscription(s) supprimées avec succès !
+edition_year,Année de l'édition
+registration_fee,Frais d'inscription
+registration_date,Date d'inscription
+payment_date,Date de paiement
+student_not_found,!! Etudiant non trouvé !!
+edit_reg_date_format_error,Les dates doivent être JJ/MM/AAAA. 
+edit_reg_payment_error,La date de paiement doit être >= la date d'enregistrement.
+edit_reg_registration_error,L'année d'inscription doit être (année d'édition - 1).
+authentication_title,Authentification
+username,Pseudo
+password,Mot de passe
+login,Connexion
+enter_username,Saisissez le pseudo (au moins 5 caractères).
+enter_password,Mot de passe (>=5 chars;>=1 majuscule;>=1 symbole;>=1 chiffre)).
+incorrect_password,Le mot de passe est erroné.
+username_not_found,Le nom d'utilisateur n'existe pas.
+duplicate_username,Le nom d'utilisateur existe déjà.
+login_correct,Connexion réussie!
+login_authorized,Vous pouvez vous connecter.
+account_created,Compte créé avec succès !
+account_error,Le compte n'a pas pu être créé

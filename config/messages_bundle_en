@@ -1,0 +1,63 @@
+add_edit_student,Add/edit student
+add_registration,Add registration
+edit_registration,Edit registration
+stud_number,Student number
+first_name,First name
+last_name,Last name
+gender,Gender
+email_address,Email address
+alternate_email_address,Alternate email address
+first_association,First association
+second_association,Second association
+third_association,Third association
+enter_identifier,Enter a valid identifier
+enter_first_name,Enter the first name
+enter_last_name,Enter the last name
+select_gender,Select the gender
+enter_email_address,Enter a valid email address
+invalid_identifier,!!Only use digits!!
+invalid_email_address,!!Not a valid email address!!
+add_button,Add
+edit_button,Edit
+clear_button,Clear
+cancel_button,Cancel
+delete_button,Delete
+duplicate_stud_number,Error: student number already in use. 
+duplicate_email_address,Error: email address is already in use:
+unexpected_error,Unexpected database error.
+duplicate_membership,Error: student already assigned to this association:
+duplicate_registration,Error: student already registered to this edition:
+student_added,Student added successfully!
+student_edited,Student edited successfully!
+enter_year,Enter the edition year
+enter_date,Enter a valid date
+invalid_year,!!Must be >= current year!!
+invalid_date,!!Must be DD/MM/YYYY!!
+invalid_payment_date,!!Must be >= registration date!!
+invalid_registration_date,!!Must be in 
+enter_registration_fee,Enter the registration fee
+invalid_registration_fee,!!Must be a real number!!
+registration_added,The registration has been added successfully!
+registration_edited,The registration has been edited successfully!
+registration_deleted,Registration(s) deleted successfully!
+edition_year,Edition year
+registration_fee,Registration fee
+registration_date,Registration date
+payment_date,Payment date
+student_not_found,!!Student not found!!
+edit_reg_date_format_error,Dates must be DD/MM/YYYY. 
+edit_reg_payment_error,Payment date must be >= registration date.
+edit_reg_registration_error,Registration year must be edition year - 1.
+authentication_title,Authentication
+username,Username
+password,Password
+login,Login
+enter_username,Enter the username (at least 5 characters)
+enter_password,Password (>=5 chars;>=1 capital;>=1 symbol;>=1 digit)
+incorrect_password,The password is incorrect.
+username_not_found,The username does not exist.
+duplicate_username,The username already exists.
+login_correct,Login successful!
+login_authorized,You can log in.
+account_created,Account created successfully!
+account_error,The account could not be created

@@ -1,0 +1,896 @@
+﻿stud_number;first_name;last_name;gender;email;stud_role;asso_name;asso_desc
+9699114;Ludwig;JACQUET;M;ludwig.jacquet@centralesupelec.fr;president;Band'à Joe;la fanfare, où tout le monde débute un instrument et qui organise des voyages dans la France et l'Europe pour jouer de la musique
+1978626;Rolande;ROUAULT;F;rolande.rouault@centralesupelec.fr;vice-president;Band'à Joe;la fanfare, où tout le monde débute un instrument et qui organise des voyages dans la France et l'Europe pour jouer de la musique
+5421882;Pierre Louis;PRIEUR;H;pierre louis.prieur@centralesupelec.fr;secretary;Band'à Joe;la fanfare, où tout le monde débute un instrument et qui organise des voyages dans la France et l'Europe pour jouer de la musique
+8737405;Jean-Brice;GENDREAU;garçon;jean-brice.gendreau@centralesupelec.fr;treasurer;Band'à Joe;la fanfare, où tout le monde débute un instrument et qui organise des voyages dans la France et l'Europe pour jouer de la musique
+9662058;Philppe;VEGER;garçon;philppe.veger@centralesupelec.fr;president;Barco;installation et exploitation de materiel video
+7680585;Jean-Pierre;MORISSET;garçon;jean-pierre.morisset@centralesupelec.fr;vice-president;Barco;installation et exploitation de materiel video
+6223280;Martial;FRETTE;M;martial.frette@centralesupelec.fr;secretary;Barco;installation et exploitation de materiel video
+2265713;Jean-Luc;GROSBOIS;M;jean-luc.grosbois@centralesupelec.fr;treasurer;Barco;installation et exploitation de materiel video
+5148985;Jean-Fred;FRIBAULT;H;jean-fred.fribault@centralesupelec.fr;president;BDA;l’asso qui s’occupe de tout ce qui est artistique sur le campus. Ça passe par l’organisation d’évènements tout au long de l’année, la gestion de Clubs artistes dans de nombreux domaines différents et la mise en place d’une billetterie en ligne permettant d’avoir des tarifs préférentiels dans des salles de spectacle parisiennes.
+4266865;Rachida;VERGNEAU;F;rachida.vergneau@centralesupelec.fr;vice-president;BDA;l’asso qui s’occupe de tout ce qui est artistique sur le campus. Ça passe par l’organisation d’évènements tout au long de l’année, la gestion de Clubs artistes dans de nombreux domaines différents et la mise en place d’une billetterie en ligne permettant d’avoir des tarifs préférentiels dans des salles de spectacle parisiennes.
+3946299;Alberto;DEVEAU;M;alberto.deveau@centralesupelec.fr;secretary;BDA;l’asso qui s’occupe de tout ce qui est artistique sur le campus. Ça passe par l’organisation d’évènements tout au long de l’année, la gestion de Clubs artistes dans de nombreux domaines différents et la mise en place d’une billetterie en ligne permettant d’avoir des tarifs préférentiels dans des salles de spectacle parisiennes.
+3654631;Noëlle;BLOT;M;noelle.blot@centralesupelec.fr;treasurer;BDA;l’asso qui s’occupe de tout ce qui est artistique sur le campus. Ça passe par l’organisation d’évènements tout au long de l’année, la gestion de Clubs artistes dans de nombreux domaines différents et la mise en place d’une billetterie en ligne permettant d’avoir des tarifs préférentiels dans des salles de spectacle parisiennes.
+5500184;Christianne;BIOTTEAU;W;christianne.biotteau@centralesupelec.fr;president;BDE;représente les élèves de CentraleSupélec auprès de la direction et coordonne la vie associative sur le campus
+9396096;Claude;MAROT;F;claude.marot@centralesupelec.fr;vice-president;BDE;représente les élèves de CentraleSupélec auprès de la direction et coordonne la vie associative sur le campus
+5654485;Rachel;CLAUDE;M;rachel.claude@centralesupelec.fr;secretary;BDE;représente les élèves de CentraleSupélec auprès de la direction et coordonne la vie associative sur le campus
+3434843;Laure;BOISSINOT;fille;laure.boissinot@centralesupelec.fr;treasurer;BDE;représente les élèves de CentraleSupélec auprès de la direction et coordonne la vie associative sur le campus
+2960755;Helmut;CHALOPIN;M;helmut.chalopin@centralesupelec.fr;president;Cheer Up;une association qui accompagne des jeunes de 15 à 25 ans malades du cancer et les aide à réaliser leur projet
+5928897;Assia;TELLIER;F;assia.tellier@centralesupelec.fr;vice-president;Cheer Up;une association qui accompagne des jeunes de 15 à 25 ans malades du cancer et les aide à réaliser leur projet
+5679520;Ismaël;DIXNEUF;M;ismael.dixneuf@centralesupelec.fr;secretary;Cheer Up;une association qui accompagne des jeunes de 15 à 25 ans malades du cancer et les aide à réaliser leur projet
+7848592;Jean-Max;RIOU;M;jean-max.riou@centralesupelec.fr;treasurer;Cheer Up;une association qui accompagne des jeunes de 15 à 25 ans malades du cancer et les aide à réaliser leur projet
+5744405;Lisette;JOURDAIN;fille;lisette.jourdain@centralesupelec.fr;president;FACS;Fédération d'associations de CS, cadre légal et financier d'une partie de l'associatif de CentraleSupélec, distribue des subventions et organise la coopération entre les associations
+8132386;Mounir;HERBERT;garçon;mounir.herbert@centralesupelec.fr;vice-president;FACS;Fédération d'associations de CS, cadre légal et financier d'une partie de l'associatif de CentraleSupélec, distribue des subventions et organise la coopération entre les associations
+1125045;Chantale;ROGER;W;chantale.roger@centralesupelec.fr;secretary;FACS;Fédération d'associations de CS, cadre légal et financier d'une partie de l'associatif de CentraleSupélec, distribue des subventions et organise la coopération entre les associations
+1865983;Jean-Léon;CHEREAU;H;jean-leon.chereau@centralesupelec.fr;treasurer;FACS;Fédération d'associations de CS, cadre légal et financier d'une partie de l'associatif de CentraleSupélec, distribue des subventions et organise la coopération entre les associations
+8788150;Elizabeth;PERRAULT;F;elizabeth.perrault@centralesupelec.fr;president;Junior CentraleSupelec (JCS);Junior Entreprise de CS, cette association d'étudiants a vocation économique et pédagogique mais a but non lucratif permet aux eleves de monter en compétences en leur proposant de réaliser des missions pour des clients
+8573060;Khadija;DOLLET;fille;khadija.dollet@centralesupelec.fr;vice-president;Junior CentraleSupelec (JCS);Junior Entreprise de CS, cette association d'étudiants a vocation économique et pédagogique mais a but non lucratif permet aux eleves de monter en compétences en leur proposant de réaliser des missions pour des clients
+982945;Romaric;ESNARD;M;romaric.esnard@centralesupelec.fr;secretary;Junior CentraleSupelec (JCS);Junior Entreprise de CS, cette association d'étudiants a vocation économique et pédagogique mais a but non lucratif permet aux eleves de monter en compétences en leur proposant de réaliser des missions pour des clients
+168621;Leïla;JURET;fille;leila.juret@centralesupelec.fr;treasurer;Junior CentraleSupelec (JCS);Junior Entreprise de CS, cette association d'étudiants a vocation économique et pédagogique mais a but non lucratif permet aux eleves de monter en compétences en leur proposant de réaliser des missions pour des clients
+248790;Isidore;ROSSIGNOL;H;isidore.rossignol@centralesupelec.fr;president;SBCS;Composé des deux associations (Sono et Barco), cette association...
+254339;Omar;BODIN;garçon;omar.bodin@centralesupelec.fr;vice-president;SBCS;Composé des deux associations (Sono et Barco), cette association...
+9535159;Louis;DESBOIS;M;louis.desbois@centralesupelec.fr;secretary;SBCS;Composé des deux associations (Sono et Barco), cette association...
+5970331;Maryvonne;FOUGERE;W;maryvonne.fougere@centralesupelec.fr;treasurer;SBCS;Composé des deux associations (Sono et Barco), cette association...
+4720458;Godefroy;CHENE;garçon;godefroy.chene@centralesupelec.fr;president;Sono;
+3043614;Dany;LIGER;H;dany.liger@centralesupelec.fr;vice-president;Sono;
+7231589;Jacob;BOURRIGAULT;M;jacob.bourrigault@centralesupelec.fr;secretary;Sono;
+3635356;Jean Toussaint;MICHELET;H;jean toussaint.michelet@centralesupelec.fr;treasurer;Sono;
+4035655;Michéle;MAILLARD;W;michele.maillard@centralesupelec.fr;president;Toucan Déchaîné;le journal de l'école, impartial et omniscient, il est au coeur de l'actualité et n'hésite pas à révéler les plus grands scandales
+494042;Katell;PAYRAUDEAU;F;katell.payraudeau@centralesupelec.fr;vice-president;Toucan Déchaîné;le journal de l'école, impartial et omniscient, il est au coeur de l'actualité et n'hésite pas à révéler les plus grands scandales
+2206687;Marie Paule;GODEFROY;F;marie paule.godefroy@centralesupelec.fr;secretary;Toucan Déchaîné;le journal de l'école, impartial et omniscient, il est au coeur de l'actualité et n'hésite pas à révéler les plus grands scandales
+101046;Emmanuelle;DAGUIN;F;emmanuelle.daguin@centralesupelec.fr;treasurer;Toucan Déchaîné;le journal de l'école, impartial et omniscient, il est au coeur de l'actualité et n'hésite pas à révéler les plus grands scandales
+7997977;Eva;SORIN;fille;eva.sorin@centralesupelec.fr;president;Impact;
+2883408;Fernando;BENARD;M;fernando.benard@centralesupelec.fr;vice-president;Impact;
+3724573;Ruddy;BARBAULT;M;ruddy.barbault@centralesupelec.fr;secretary;Impact;
+2982167;Edouard;DALAINE;M;edouard.dalaine@centralesupelec.fr;treasurer;Impact;
+7719175;Eliane;CHOISNE;M;eliane.choisne@centralesupelec.fr;member;BDE;représente les élèves de CentraleSupélec auprès de la direction et coordonne la vie associative sur le campus
+7719175;Eliane;CHOISNE;M;eliane.choisne@centralesupelec.fr;member;Barco;installation et exploitation de materiel video
+7719175;Eliane;CHOISNE;M;eliane.choisne@centralesupelec.fr;member;Cheer Up;une association qui accompagne des jeunes de 15 à 25 ans malades du cancer et les aide à réaliser leur projet
+7208231;Florian;COEFFARD;M;florian.coeffard@centralesupelec.fr;member;Barco;installation et exploitation de materiel video
+7208231;Florian;COEFFARD;M;florian.coeffard@centralesupelec.fr;member;Sono;
+7208231;Florian;COEFFARD;M;florian.coeffard@centralesupelec.fr;member;SBCS;Composé des deux associations (Sono et Barco), cette association...
+5876984;Jacob;ROUSSIERE;garçon;jacob.roussiere@centralesupelec.fr;member;Cheer Up;une association qui accompagne des jeunes de 15 à 25 ans malades du cancer et les aide à réaliser leur projet
+7874799;Timothée;COUILLAUD;H;timothee.couillaud@centralesupelec.fr;member;Band'à Joe;la fanfare, où tout le monde débute un instrument et qui organise des voyages dans la France et l'Europe pour jouer de la musique
+7874799;Timothée;COUILLAUD;H;timothee.couillaud@centralesupelec.fr;member;BDE;représente les élèves de CentraleSupélec auprès de la direction et coordonne la vie associative sur le campus
+7874799;Timothée;COUILLAUD;H;timothee.couillaud@centralesupelec.fr;member;Junior CentraleSupelec (JCS);Junior Entreprise de CS, cette association d'étudiants a vocation économique et pédagogique mais a but non lucratif permet aux eleves de monter en compétences en leur proposant de réaliser des missions pour des clients
+2321657;Léonie;RELION;F;leonie.relion@centralesupelec.fr;member;SBCS;Composé des deux associations (Sono et Barco), cette association...
+1056327;Prosper;FERRON;H;prosper.ferron@centralesupelec.fr;member;Band'à Joe;la fanfare, où tout le monde débute un instrument et qui organise des voyages dans la France et l'Europe pour jouer de la musique
+1056327;Prosper;FERRON;H;prosper.ferron@centralesupelec.fr;member;Cheer Up;une association qui accompagne des jeunes de 15 à 25 ans malades du cancer et les aide à réaliser leur projet
+1056327;Prosper;FERRON;H;prosper.ferron@centralesupelec.fr;member;BDE;représente les élèves de CentraleSupélec auprès de la direction et coordonne la vie associative sur le campus
+2357186;Marie-Helene;COUVREUR;W;marie-helene.couvreur@centralesupelec.fr;member;Barco;installation et exploitation de materiel video
+2357186;Marie-Helene;COUVREUR;W;marie-helene.couvreur@centralesupelec.fr;member;Impact;
+2357186;Marie-Helene;COUVREUR;W;marie-helene.couvreur@centralesupelec.fr;member;SBCS;Composé des deux associations (Sono et Barco), cette association...
+8298259;Béatrix;CHOISNET;fille;beatrix.choisnet@centralesupelec.fr;member;Cheer Up;une association qui accompagne des jeunes de 15 à 25 ans malades du cancer et les aide à réaliser leur projet
+7085217;Geneviève;RAGUIN;W;genevieve.raguin@centralesupelec.fr;member;BDE;représente les élèves de CentraleSupélec auprès de la direction et coordonne la vie associative sur le campus
+7085217;Geneviève;RAGUIN;W;genevieve.raguin@centralesupelec.fr;member;Cheer Up;une association qui accompagne des jeunes de 15 à 25 ans malades du cancer et les aide à réaliser leur projet
+7085217;Geneviève;RAGUIN;W;genevieve.raguin@centralesupelec.fr;member;Toucan Déchaîné;le journal de l'école, impartial et omniscient, il est au coeur de l'actualité et n'hésite pas à révéler les plus grands scandales
+2542500;Karl;ANIS;H;karl.anis@centralesupelec.fr;member;Toucan Déchaîné;le journal de l'école, impartial et omniscient, il est au coeur de l'actualité et n'hésite pas à révéler les plus grands scandales
+6060655;Gina;GUILLEMET;fille;gina.guillemet@centralesupelec.fr;member;BDE;représente les élèves de CentraleSupélec auprès de la direction et coordonne la vie associative sur le campus
+3656441;Camille;BOUET;garçon;camille.bouet@centralesupelec.fr;member;Junior CentraleSupelec (JCS);Junior Entreprise de CS, cette association d'étudiants a vocation économique et pédagogique mais a but non lucratif permet aux eleves de monter en compétences en leur proposant de réaliser des missions pour des clients
+8264456;Juliette;RENOUX;F;juliette.renoux@centralesupelec.fr;member;BDA;l’asso qui s’occupe de tout ce qui est artistique sur le campus. Ça passe par l’organisation d’évènements tout au long de l’année, la gestion de Clubs artistes dans de nombreux domaines différents et la mise en place d’une billetterie en ligne permettant d’avoir des tarifs préférentiels dans des salles de spectacle parisiennes.
+8264456;Juliette;RENOUX;F;juliette.renoux@centralesupelec.fr;member;FACS;Fédération d'associations de CS, cadre légal et financier d'une partie de l'associatif de CentraleSupélec, distribue des subventions et organise la coopération entre les associations
+2199095;Marie-Bernadette;PERRON;fille;marie-bernadette.perron@centralesupelec.fr;member;BDA;l’asso qui s’occupe de tout ce qui est artistique sur le campus. Ça passe par l’organisation d’évènements tout au long de l’année, la gestion de Clubs artistes dans de nombreux domaines différents et la mise en place d’une billetterie en ligne permettant d’avoir des tarifs préférentiels dans des salles de spectacle parisiennes.
+2199095;Marie-Bernadette;PERRON;fille;marie-bernadette.perron@centralesupelec.fr;member;Junior CentraleSupelec (JCS);Junior Entreprise de CS, cette association d'étudiants a vocation économique et pédagogique mais a but non lucratif permet aux eleves de monter en compétences en leur proposant de réaliser des missions pour des clients
+2199095;Marie-Bernadette;PERRON;fille;marie-bernadette.perron@centralesupelec.fr;member;BDE;représente les élèves de CentraleSupélec auprès de la direction et coordonne la vie associative sur le campus
+3808222;Frantz;REVERDY;M;frantz.reverdy@centralesupelec.fr;member;Band'à Joe;la fanfare, où tout le monde débute un instrument et qui organise des voyages dans la France et l'Europe pour jouer de la musique
+3808222;Frantz;REVERDY;M;frantz.reverdy@centralesupelec.fr;member;Junior CentraleSupelec (JCS);Junior Entreprise de CS, cette association d'étudiants a vocation économique et pédagogique mais a but non lucratif permet aux eleves de monter en compétences en leur proposant de réaliser des missions pour des clients
+3808222;Frantz;REVERDY;M;frantz.reverdy@centralesupelec.fr;member;Impact;
+1443127;Marie-Céline;DENECHERE;fille;marie-celine.denechere@centralesupelec.fr;member;Junior CentraleSupelec (JCS);Junior Entreprise de CS, cette association d'étudiants a vocation économique et pédagogique mais a but non lucratif permet aux eleves de monter en compétences en leur proposant de réaliser des missions pour des clients
+8841242;Françoise;BOUDIER;M;francoise.boudier@centralesupelec.fr;member;Impact;
+1548313;Claude;PAULEAU;F;claude.pauleau@centralesupelec.fr;member;Sono;
+1548313;Claude;PAULEAU;F;claude.pauleau@centralesupelec.fr;member;BDA;l’asso qui s’occupe de tout ce qui est artistique sur le campus. Ça passe par l’organisation d’évènements tout au long de l’année, la gestion de Clubs artistes dans de nombreux domaines différents et la mise en place d’une billetterie en ligne permettant d’avoir des tarifs préférentiels dans des salles de spectacle parisiennes.
+1548313;Claude;PAULEAU;F;claude.pauleau@centralesupelec.fr;member;SBCS;Composé des deux associations (Sono et Barco), cette association...
+7812504;Steeve;LUCAS;H;steeve.lucas@centralesupelec.fr;member;Impact;
+7812504;Steeve;LUCAS;H;steeve.lucas@centralesupelec.fr;member;Barco;installation et exploitation de materiel video
+7812504;Steeve;LUCAS;H;steeve.lucas@centralesupelec.fr;member;FACS;Fédération d'associations de CS, cadre légal et financier d'une partie de l'associatif de CentraleSupélec, distribue des subventions et organise la coopération entre les associations
+6684033;Nicole;PREZELIN;M;nicole.prezelin@centralesupelec.fr;member;Sono;
+6684033;Nicole;PREZELIN;M;nicole.prezelin@centralesupelec.fr;member;BDA;l’asso qui s’occupe de tout ce qui est artistique sur le campus. Ça passe par l’organisation d’évènements tout au long de l’année, la gestion de Clubs artistes dans de nombreux domaines différents et la mise en place d’une billetterie en ligne permettant d’avoir des tarifs préférentiels dans des salles de spectacle parisiennes.
+6987488;Lise-Marie;BEAUMIER;W;lise-marie.beaumier@centralesupelec.fr;member;Toucan Déchaîné;le journal de l'école, impartial et omniscient, il est au coeur de l'actualité et n'hésite pas à révéler les plus grands scandales
+1489259;Marie-Joelle;HAMON;fille;marie-joelle.hamon@centralesupelec.fr;member;Barco;installation et exploitation de materiel video
+1816455;Guy;GEFFARD;M;guy.geffard@centralesupelec.fr;member;FACS;Fédération d'associations de CS, cadre légal et financier d'une partie de l'associatif de CentraleSupélec, distribue des subventions et organise la coopération entre les associations
+1816455;Guy;GEFFARD;M;guy.geffard@centralesupelec.fr;member;BDE;représente les élèves de CentraleSupélec auprès de la direction et coordonne la vie associative sur le campus
+1816455;Guy;GEFFARD;M;guy.geffard@centralesupelec.fr;member;Band'à Joe;la fanfare, où tout le monde débute un instrument et qui organise des voyages dans la France et l'Europe pour jouer de la musique
+9419081;Arnauld;MESNARD;garçon;arnauld.mesnard@centralesupelec.fr;member;Junior CentraleSupelec (JCS);Junior Entreprise de CS, cette association d'étudiants a vocation économique et pédagogique mais a but non lucratif permet aux eleves de monter en compétences en leur proposant de réaliser des missions pour des clients
+4142842;Jean-José;BONNEAU;M;jean-jose.bonneau@centralesupelec.fr;member;Sono;
+2492393;Moussa;LEMOINE;H;moussa.lemoine@centralesupelec.fr;member;SBCS;Composé des deux associations (Sono et Barco), cette association...
+2492393;Moussa;LEMOINE;H;moussa.lemoine@centralesupelec.fr;member;Toucan Déchaîné;le journal de l'école, impartial et omniscient, il est au coeur de l'actualité et n'hésite pas à révéler les plus grands scandales
+2492393;Moussa;LEMOINE;H;moussa.lemoine@centralesupelec.fr;member;Cheer Up;une association qui accompagne des jeunes de 15 à 25 ans malades du cancer et les aide à réaliser leur projet
+7552324;Huguette;LAMBERT;W;huguette.lambert@centralesupelec.fr;member;Barco;installation et exploitation de materiel video
+7552324;Huguette;LAMBERT;W;huguette.lambert@centralesupelec.fr;member;Cheer Up;une association qui accompagne des jeunes de 15 à 25 ans malades du cancer et les aide à réaliser leur projet
+1143077;Stéphane;BOISTAULT;F;stephane.boistault@centralesupelec.fr;member;BDE;représente les élèves de CentraleSupélec auprès de la direction et coordonne la vie associative sur le campus
+1143077;Stéphane;BOISTAULT;F;stephane.boistault@centralesupelec.fr;member;Sono;
+3654729;Cendrine;GOHIER;F;cendrine.gohier@centralesupelec.fr;member;FACS;Fédération d'associations de CS, cadre légal et financier d'une partie de l'associatif de CentraleSupélec, distribue des subventions et organise la coopération entre les associations
+3654729;Cendrine;GOHIER;F;cendrine.gohier@centralesupelec.fr;member;Sono;
+3654729;Cendrine;GOHIER;F;cendrine.gohier@centralesupelec.fr;member;BDE;représente les élèves de CentraleSupélec auprès de la direction et coordonne la vie associative sur le campus
+6838348;Jean-Charles;LEBRUN;H;jean-charles.lebrun@centralesupelec.fr;member;Band'à Joe;la fanfare, où tout le monde débute un instrument et qui organise des voyages dans la France et l'Europe pour jouer de la musique
+6838348;Jean-Charles;LEBRUN;H;jean-charles.lebrun@centralesupelec.fr;member;Toucan Déchaîné;le journal de l'école, impartial et omniscient, il est au coeur de l'actualité et n'hésite pas à révéler les plus grands scandales
+6838348;Jean-Charles;LEBRUN;H;jean-charles.lebrun@centralesupelec.fr;member;BDE;représente les élèves de CentraleSupélec auprès de la direction et coordonne la vie associative sur le campus
+7272063;Valérie;MAILLOCHON;fille;valerie.maillochon@centralesupelec.fr;member;Toucan Déchaîné;le journal de l'école, impartial et omniscient, il est au coeur de l'actualité et n'hésite pas à révéler les plus grands scandales
+4726982;Doris;LANDRY;fille;doris.landry@centralesupelec.fr;member;FACS;Fédération d'associations de CS, cadre légal et financier d'une partie de l'associatif de CentraleSupélec, distribue des subventions et organise la coopération entre les associations
+7339596;Najia;ALIGON;W;najia.aligon@centralesupelec.fr;member;BDE;représente les élèves de CentraleSupélec auprès de la direction et coordonne la vie associative sur le campus
+6949831;Edwige;CHATEIGNER;F;edwige.chateigner@centralesupelec.fr;member;Barco;installation et exploitation de materiel video
+6949831;Edwige;CHATEIGNER;F;edwige.chateigner@centralesupelec.fr;member;SBCS;Composé des deux associations (Sono et Barco), cette association...
+7930059;Marianne;LE GAL;H;marianne.le gal@centralesupelec.fr;member;FACS;Fédération d'associations de CS, cadre légal et financier d'une partie de l'associatif de CentraleSupélec, distribue des subventions et organise la coopération entre les associations
+7930059;Marianne;LE GAL;H;marianne.le gal@centralesupelec.fr;member;Barco;installation et exploitation de materiel video
+1704351;Inès;﻿MARTIN;fille;ines.martin@centralesupelec.fr;member;Cheer Up;une association qui accompagne des jeunes de 15 à 25 ans malades du cancer et les aide à réaliser leur projet
+1704351;Inès;﻿MARTIN;fille;ines.martin@centralesupelec.fr;member;SBCS;Composé des deux associations (Sono et Barco), cette association...
+138039;Helen;COIFFARD;fille;helen.coiffard@centralesupelec.fr;member;SBCS;Composé des deux associations (Sono et Barco), cette association...
+138039;Helen;COIFFARD;fille;helen.coiffard@centralesupelec.fr;member;Sono;
+138039;Helen;COIFFARD;fille;helen.coiffard@centralesupelec.fr;member;Cheer Up;une association qui accompagne des jeunes de 15 à 25 ans malades du cancer et les aide à réaliser leur projet
+7971456;Salim;GRIFFON;M;salim.griffon@centralesupelec.fr;member;Barco;installation et exploitation de materiel video
+7971456;Salim;GRIFFON;M;salim.griffon@centralesupelec.fr;member;SBCS;Composé des deux associations (Sono et Barco), cette association...
+1119943;Maude;ALGOURDIN;fille;maude.algourdin@centralesupelec.fr;member;Cheer Up;une association qui accompagne des jeunes de 15 à 25 ans malades du cancer et les aide à réaliser leur projet
+1119943;Maude;ALGOURDIN;fille;maude.algourdin@centralesupelec.fr;member;Sono;
+7467470;Helga;GERNIGON;F;helga.gernigon@centralesupelec.fr;member;Sono;
+7467470;Helga;GERNIGON;F;helga.gernigon@centralesupelec.fr;member;Barco;installation et exploitation de materiel video
+7467470;Helga;GERNIGON;F;helga.gernigon@centralesupelec.fr;member;Junior CentraleSupelec (JCS);Junior Entreprise de CS, cette association d'étudiants a vocation économique et pédagogique mais a but non lucratif permet aux eleves de monter en compétences en leur proposant de réaliser des missions pour des clients
+3479955;Marie-Elisabeth;RAVARY;F;marie-elisabeth.ravary@centralesupelec.fr;member;Toucan Déchaîné;le journal de l'école, impartial et omniscient, il est au coeur de l'actualité et n'hésite pas à révéler les plus grands scandales
+3479955;Marie-Elisabeth;RAVARY;F;marie-elisabeth.ravary@centralesupelec.fr;member;Junior CentraleSupelec (JCS);Junior Entreprise de CS, cette association d'étudiants a vocation économique et pédagogique mais a but non lucratif permet aux eleves de monter en compétences en leur proposant de réaliser des missions pour des clients
+6393605;Huguette;BOURBON;W;huguette.bourbon@centralesupelec.fr;member;FACS;Fédération d'associations de CS, cadre légal et financier d'une partie de l'associatif de CentraleSupélec, distribue des subventions et organise la coopération entre les associations
+6507216;Paul-André;LEFEVRE;H;paul-andre.lefevre@centralesupelec.fr;member;Band'à Joe;la fanfare, où tout le monde débute un instrument et qui organise des voyages dans la France et l'Europe pour jouer de la musique
+6507216;Paul-André;LEFEVRE;H;paul-andre.lefevre@centralesupelec.fr;member;Cheer Up;une association qui accompagne des jeunes de 15 à 25 ans malades du cancer et les aide à réaliser leur projet
+4239662;Ursula;LHERBETTE;fille;ursula.lherbette@centralesupelec.fr;member;Toucan Déchaîné;le journal de l'école, impartial et omniscient, il est au coeur de l'actualité et n'hésite pas à révéler les plus grands scandales
+4239662;Ursula;LHERBETTE;fille;ursula.lherbette@centralesupelec.fr;member;FACS;Fédération d'associations de CS, cadre légal et financier d'une partie de l'associatif de CentraleSupélec, distribue des subventions et organise la coopération entre les associations
+4239662;Ursula;LHERBETTE;fille;ursula.lherbette@centralesupelec.fr;member;Barco;installation et exploitation de materiel video
+5089004;Vincenza;DELAHAIE;fille;vincenza.delahaie@centralesupelec.fr;member;Band'à Joe;la fanfare, où tout le monde débute un instrument et qui organise des voyages dans la France et l'Europe pour jouer de la musique
+5089004;Vincenza;DELAHAIE;fille;vincenza.delahaie@centralesupelec.fr;member;Cheer Up;une association qui accompagne des jeunes de 15 à 25 ans malades du cancer et les aide à réaliser leur projet
+5089004;Vincenza;DELAHAIE;fille;vincenza.delahaie@centralesupelec.fr;member;Barco;installation et exploitation de materiel video
+975616;Ghislaine;GUIARD;garçon;ghislaine.guiard@centralesupelec.fr;member;Toucan Déchaîné;le journal de l'école, impartial et omniscient, il est au coeur de l'actualité et n'hésite pas à révéler les plus grands scandales
+975616;Ghislaine;GUIARD;garçon;ghislaine.guiard@centralesupelec.fr;member;Sono;
+8099037;Maïté;BARAUD;W;maite.baraud@centralesupelec.fr;member;Cheer Up;une association qui accompagne des jeunes de 15 à 25 ans malades du cancer et les aide à réaliser leur projet
+9976281;Jean-Richard;RAPICAULT;M;jean-richard.rapicault@centralesupelec.fr;member;Cheer Up;une association qui accompagne des jeunes de 15 à 25 ans malades du cancer et les aide à réaliser leur projet
+9976281;Jean-Richard;RAPICAULT;M;jean-richard.rapicault@centralesupelec.fr;member;SBCS;Composé des deux associations (Sono et Barco), cette association...
+9976281;Jean-Richard;RAPICAULT;M;jean-richard.rapicault@centralesupelec.fr;member;BDE;représente les élèves de CentraleSupélec auprès de la direction et coordonne la vie associative sur le campus
+6768024;Ida;DAVIAU;F;ida.daviau@centralesupelec.fr;member;Barco;installation et exploitation de materiel video
+145894;Marie Noelle;COSTE;fille;marie noelle.coste@centralesupelec.fr;member;FACS;Fédération d'associations de CS, cadre légal et financier d'une partie de l'associatif de CentraleSupélec, distribue des subventions et organise la coopération entre les associations
+145894;Marie Noelle;COSTE;fille;marie noelle.coste@centralesupelec.fr;member;Toucan Déchaîné;le journal de l'école, impartial et omniscient, il est au coeur de l'actualité et n'hésite pas à révéler les plus grands scandales
+145894;Marie Noelle;COSTE;fille;marie noelle.coste@centralesupelec.fr;member;SBCS;Composé des deux associations (Sono et Barco), cette association...
+8775967;Claudio;ROUILLE;M;claudio.rouille@centralesupelec.fr;member;FACS;Fédération d'associations de CS, cadre légal et financier d'une partie de l'associatif de CentraleSupélec, distribue des subventions et organise la coopération entre les associations
+8775967;Claudio;ROUILLE;M;claudio.rouille@centralesupelec.fr;member;Cheer Up;une association qui accompagne des jeunes de 15 à 25 ans malades du cancer et les aide à réaliser leur projet
+8775967;Claudio;ROUILLE;M;claudio.rouille@centralesupelec.fr;member;SBCS;Composé des deux associations (Sono et Barco), cette association...
+6558582;Marie-Line;CHARPENTIER;F;marie-line.charpentier@centralesupelec.fr;member;Band'à Joe;la fanfare, où tout le monde débute un instrument et qui organise des voyages dans la France et l'Europe pour jouer de la musique
+34297;Marie-Astrid;TROST;F;marie-astrid.trost@centralesupelec.fr;member;Cheer Up;une association qui accompagne des jeunes de 15 à 25 ans malades du cancer et les aide à réaliser leur projet
+34297;Marie-Astrid;TROST;F;marie-astrid.trost@centralesupelec.fr;member;Band'à Joe;la fanfare, où tout le monde débute un instrument et qui organise des voyages dans la France et l'Europe pour jouer de la musique
+34297;Marie-Astrid;TROST;F;marie-astrid.trost@centralesupelec.fr;member;Sono;
+6432702;Maude;HALBERT;fille;maude.halbert@centralesupelec.fr;member;Barco;installation et exploitation de materiel video
+6432702;Maude;HALBERT;fille;maude.halbert@centralesupelec.fr;member;Junior CentraleSupelec (JCS);Junior Entreprise de CS, cette association d'étudiants a vocation économique et pédagogique mais a but non lucratif permet aux eleves de monter en compétences en leur proposant de réaliser des missions pour des clients
+7327945;Dolorès;GAUGAIN;fille;dolores.gaugain@centralesupelec.fr;member;Junior CentraleSupelec (JCS);Junior Entreprise de CS, cette association d'étudiants a vocation économique et pédagogique mais a but non lucratif permet aux eleves de monter en compétences en leur proposant de réaliser des missions pour des clients
+7327945;Dolorès;GAUGAIN;fille;dolores.gaugain@centralesupelec.fr;member;Impact;
+7327945;Dolorès;GAUGAIN;fille;dolores.gaugain@centralesupelec.fr;member;FACS;Fédération d'associations de CS, cadre légal et financier d'une partie de l'associatif de CentraleSupélec, distribue des subventions et organise la coopération entre les associations
+9287286;Marco;BROSSAS;H;marco.brossas@centralesupelec.fr;member;BDE;représente les élèves de CentraleSupélec auprès de la direction et coordonne la vie associative sur le campus
+9287286;Marco;BROSSAS;H;marco.brossas@centralesupelec.fr;member;BDA;l’asso qui s’occupe de tout ce qui est artistique sur le campus. Ça passe par l’organisation d’évènements tout au long de l’année, la gestion de Clubs artistes dans de nombreux domaines différents et la mise en place d’une billetterie en ligne permettant d’avoir des tarifs préférentiels dans des salles de spectacle parisiennes.
+9287286;Marco;BROSSAS;H;marco.brossas@centralesupelec.fr;member;SBCS;Composé des deux associations (Sono et Barco), cette association...
+5390269;Philomène;DA SILVA;W;philomene.da silva@centralesupelec.fr;member;Band'à Joe;la fanfare, où tout le monde débute un instrument et qui organise des voyages dans la France et l'Europe pour jouer de la musique
+5390269;Philomène;DA SILVA;W;philomene.da silva@centralesupelec.fr;member;Junior CentraleSupelec (JCS);Junior Entreprise de CS, cette association d'étudiants a vocation économique et pédagogique mais a but non lucratif permet aux eleves de monter en compétences en leur proposant de réaliser des missions pour des clients
+5390269;Philomène;DA SILVA;W;philomene.da silva@centralesupelec.fr;member;SBCS;Composé des deux associations (Sono et Barco), cette association...
+3654438;Walter;LAVENIER;H;walter.lavenier@centralesupelec.fr;member;Sono;
+3654438;Walter;LAVENIER;H;walter.lavenier@centralesupelec.fr;member;Toucan Déchaîné;le journal de l'école, impartial et omniscient, il est au coeur de l'actualité et n'hésite pas à révéler les plus grands scandales
+3654438;Walter;LAVENIER;H;walter.lavenier@centralesupelec.fr;member;Band'à Joe;la fanfare, où tout le monde débute un instrument et qui organise des voyages dans la France et l'Europe pour jouer de la musique
+4071677;Marie-Joëlle;DEROUET;F;marie-joelle.derouet@centralesupelec.fr;member;Band'à Joe;la fanfare, où tout le monde débute un instrument et qui organise des voyages dans la France et l'Europe pour jouer de la musique
+4071677;Marie-Joëlle;DEROUET;F;marie-joelle.derouet@centralesupelec.fr;member;Junior CentraleSupelec (JCS);Junior Entreprise de CS, cette association d'étudiants a vocation économique et pédagogique mais a but non lucratif permet aux eleves de monter en compétences en leur proposant de réaliser des missions pour des clients
+4071677;Marie-Joëlle;DEROUET;F;marie-joelle.derouet@centralesupelec.fr;member;SBCS;Composé des deux associations (Sono et Barco), cette association...
+9061188;Omar;BERTAUD;H;omar.bertaud@centralesupelec.fr;member;Junior CentraleSupelec (JCS);Junior Entreprise de CS, cette association d'étudiants a vocation économique et pédagogique mais a but non lucratif permet aux eleves de monter en compétences en leur proposant de réaliser des missions pour des clients
+9061188;Omar;BERTAUD;H;omar.bertaud@centralesupelec.fr;member;Toucan Déchaîné;le journal de l'école, impartial et omniscient, il est au coeur de l'actualité et n'hésite pas à révéler les plus grands scandales
+8486227;Marie-Michèle;PERRAULT;fille;marie-michele.perrault@centralesupelec.fr;member;Toucan Déchaîné;le journal de l'école, impartial et omniscient, il est au coeur de l'actualité et n'hésite pas à révéler les plus grands scandales
+8486227;Marie-Michèle;PERRAULT;fille;marie-michele.perrault@centralesupelec.fr;member;Sono;
+8486227;Marie-Michèle;PERRAULT;fille;marie-michele.perrault@centralesupelec.fr;member;Junior CentraleSupelec (JCS);Junior Entreprise de CS, cette association d'étudiants a vocation économique et pédagogique mais a but non lucratif permet aux eleves de monter en compétences en leur proposant de réaliser des missions pour des clients
+1542780;Peggy;GENDRY;W;peggy.gendry@centralesupelec.fr;member;Toucan Déchaîné;le journal de l'école, impartial et omniscient, il est au coeur de l'actualité et n'hésite pas à révéler les plus grands scandales
+4207744;Gaby;PANNEAU;H;gaby.panneau@centralesupelec.fr;member;FACS;Fédération d'associations de CS, cadre légal et financier d'une partie de l'associatif de CentraleSupélec, distribue des subventions et organise la coopération entre les associations
+4207744;Gaby;PANNEAU;H;gaby.panneau@centralesupelec.fr;member;Barco;installation et exploitation de materiel video
+1810422;Mireille;LEGER;fille;mireille.leger@centralesupelec.fr;member;Cheer Up;une association qui accompagne des jeunes de 15 à 25 ans malades du cancer et les aide à réaliser leur projet
+9492774;Dorothée;PINARD;fille;dorothee.pinard@centralesupelec.fr;member;Cheer Up;une association qui accompagne des jeunes de 15 à 25 ans malades du cancer et les aide à réaliser leur projet
+9492774;Dorothée;PINARD;fille;dorothee.pinard@centralesupelec.fr;member;BDA;l’asso qui s’occupe de tout ce qui est artistique sur le campus. Ça passe par l’organisation d’évènements tout au long de l’année, la gestion de Clubs artistes dans de nombreux domaines différents et la mise en place d’une billetterie en ligne permettant d’avoir des tarifs préférentiels dans des salles de spectacle parisiennes.
+7145865;Fatma;COUVREUX;fille;fatma.couvreux@centralesupelec.fr;member;Cheer Up;une association qui accompagne des jeunes de 15 à 25 ans malades du cancer et les aide à réaliser leur projet
+7145865;Fatma;COUVREUX;fille;fatma.couvreux@centralesupelec.fr;member;Impact;
+3355919;Jean-Pol;BELNOU;M;jean-pol.belnou@centralesupelec.fr;member;Band'à Joe;la fanfare, où tout le monde débute un instrument et qui organise des voyages dans la France et l'Europe pour jouer de la musique
+3355919;Jean-Pol;BELNOU;M;jean-pol.belnou@centralesupelec.fr;member;FACS;Fédération d'associations de CS, cadre légal et financier d'une partie de l'associatif de CentraleSupélec, distribue des subventions et organise la coopération entre les associations
+6813274;Marietta;VION;F;marietta.vion@centralesupelec.fr;member;Cheer Up;une association qui accompagne des jeunes de 15 à 25 ans malades du cancer et les aide à réaliser leur projet
+6813274;Marietta;VION;F;marietta.vion@centralesupelec.fr;member;Impact;
+6813274;Marietta;VION;F;marietta.vion@centralesupelec.fr;member;BDA;l’asso qui s’occupe de tout ce qui est artistique sur le campus. Ça passe par l’organisation d’évènements tout au long de l’année, la gestion de Clubs artistes dans de nombreux domaines différents et la mise en place d’une billetterie en ligne permettant d’avoir des tarifs préférentiels dans des salles de spectacle parisiennes.
+1175545;Jacki;BEZIE;garçon;jacki.bezie@centralesupelec.fr;member;Barco;installation et exploitation de materiel video
+517862;Fleur;SECHER;fille;fleur.secher@centralesupelec.fr;member;Junior CentraleSupelec (JCS);Junior Entreprise de CS, cette association d'étudiants a vocation économique et pédagogique mais a but non lucratif permet aux eleves de monter en compétences en leur proposant de réaliser des missions pour des clients
+517862;Fleur;SECHER;fille;fleur.secher@centralesupelec.fr;member;SBCS;Composé des deux associations (Sono et Barco), cette association...
+517862;Fleur;SECHER;fille;fleur.secher@centralesupelec.fr;member;Band'à Joe;la fanfare, où tout le monde débute un instrument et qui organise des voyages dans la France et l'Europe pour jouer de la musique
+8147057;Florian;BEAUMONT;M;florian.beaumont@centralesupelec.fr;member;Impact;
+8147057;Florian;BEAUMONT;M;florian.beaumont@centralesupelec.fr;member;Sono;
+1950948;Marinette;CERISIER;fille;marinette.cerisier@centralesupelec.fr;member;BDA;l’asso qui s’occupe de tout ce qui est artistique sur le campus. Ça passe par l’organisation d’évènements tout au long de l’année, la gestion de Clubs artistes dans de nombreux domaines différents et la mise en place d’une billetterie en ligne permettant d’avoir des tarifs préférentiels dans des salles de spectacle parisiennes.
+1950948;Marinette;CERISIER;fille;marinette.cerisier@centralesupelec.fr;member;Sono;
+7009087;Daniela;POILANE;fille;daniela.poilane@centralesupelec.fr;member;BDA;l’asso qui s’occupe de tout ce qui est artistique sur le campus. Ça passe par l’organisation d’évènements tout au long de l’année, la gestion de Clubs artistes dans de nombreux domaines différents et la mise en place d’une billetterie en ligne permettant d’avoir des tarifs préférentiels dans des salles de spectacle parisiennes.
+7009087;Daniela;POILANE;fille;daniela.poilane@centralesupelec.fr;member;Toucan Déchaîné;le journal de l'école, impartial et omniscient, il est au coeur de l'actualité et n'hésite pas à révéler les plus grands scandales
+7009087;Daniela;POILANE;fille;daniela.poilane@centralesupelec.fr;member;BDE;représente les élèves de CentraleSupélec auprès de la direction et coordonne la vie associative sur le campus
+2319720;Hocine;CUSSONNEAU;garçon;hocine.cussonneau@centralesupelec.fr;member;Impact;
+2319720;Hocine;CUSSONNEAU;garçon;hocine.cussonneau@centralesupelec.fr;member;Band'à Joe;la fanfare, où tout le monde débute un instrument et qui organise des voyages dans la France et l'Europe pour jouer de la musique
+8861766;Elvis;COSNARD;M;elvis.cosnard@centralesupelec.fr;member;FACS;Fédération d'associations de CS, cadre légal et financier d'une partie de l'associatif de CentraleSupélec, distribue des subventions et organise la coopération entre les associations
+8861766;Elvis;COSNARD;M;elvis.cosnard@centralesupelec.fr;member;Impact;
+8861766;Elvis;COSNARD;M;elvis.cosnard@centralesupelec.fr;member;Cheer Up;une association qui accompagne des jeunes de 15 à 25 ans malades du cancer et les aide à réaliser leur projet
+6424608;Marie-Lise;JOUAN;F;marie-lise.jouan@centralesupelec.fr;member;Toucan Déchaîné;le journal de l'école, impartial et omniscient, il est au coeur de l'actualité et n'hésite pas à révéler les plus grands scandales
+6424608;Marie-Lise;JOUAN;F;marie-lise.jouan@centralesupelec.fr;member;Band'à Joe;la fanfare, où tout le monde débute un instrument et qui organise des voyages dans la France et l'Europe pour jouer de la musique
+7206006;Jérémy;DESGRE;M;jeremy.desgre@centralesupelec.fr;member;SBCS;Composé des deux associations (Sono et Barco), cette association...
+7206006;Jérémy;DESGRE;M;jeremy.desgre@centralesupelec.fr;member;Cheer Up;une association qui accompagne des jeunes de 15 à 25 ans malades du cancer et les aide à réaliser leur projet
+7206006;Jérémy;DESGRE;M;jeremy.desgre@centralesupelec.fr;member;Junior CentraleSupelec (JCS);Junior Entreprise de CS, cette association d'étudiants a vocation économique et pédagogique mais a but non lucratif permet aux eleves de monter en compétences en leur proposant de réaliser des missions pour des clients
+5704838;Emmanuel;CHOLLET;garçon;emmanuel.chollet@centralesupelec.fr;member;Sono;
+5704838;Emmanuel;CHOLLET;garçon;emmanuel.chollet@centralesupelec.fr;member;Toucan Déchaîné;le journal de l'école, impartial et omniscient, il est au coeur de l'actualité et n'hésite pas à révéler les plus grands scandales
+455099;Antoinette;PERRAULT;fille;antoinette.perrault@centralesupelec.fr;member;Sono;
+455099;Antoinette;PERRAULT;fille;antoinette.perrault@centralesupelec.fr;member;Cheer Up;une association qui accompagne des jeunes de 15 à 25 ans malades du cancer et les aide à réaliser leur projet
+4121585;Colombe;LENOGUE;fille;colombe.lenogue@centralesupelec.fr;member;Barco;installation et exploitation de materiel video
+4121585;Colombe;LENOGUE;fille;colombe.lenogue@centralesupelec.fr;member;Junior CentraleSupelec (JCS);Junior Entreprise de CS, cette association d'étudiants a vocation économique et pédagogique mais a but non lucratif permet aux eleves de monter en compétences en leur proposant de réaliser des missions pour des clients
+9695784;Conchita;ROHARD;F;conchita.rohard@centralesupelec.fr;member;Impact;
+9695784;Conchita;ROHARD;F;conchita.rohard@centralesupelec.fr;member;Cheer Up;une association qui accompagne des jeunes de 15 à 25 ans malades du cancer et les aide à réaliser leur projet
+934964;Anny;VOISINE;fille;anny.voisine@centralesupelec.fr;member;Cheer Up;une association qui accompagne des jeunes de 15 à 25 ans malades du cancer et les aide à réaliser leur projet
+6876230;Bérénice;VRAIN;fille;berenice.vrain@centralesupelec.fr;member;BDE;représente les élèves de CentraleSupélec auprès de la direction et coordonne la vie associative sur le campus
+6876230;Bérénice;VRAIN;fille;berenice.vrain@centralesupelec.fr;member;Cheer Up;une association qui accompagne des jeunes de 15 à 25 ans malades du cancer et les aide à réaliser leur projet
+6876230;Bérénice;VRAIN;fille;berenice.vrain@centralesupelec.fr;member;SBCS;Composé des deux associations (Sono et Barco), cette association...
+7224833;Mariannick;DERSOIR;F;mariannick.dersoir@centralesupelec.fr;member;BDA;l’asso qui s’occupe de tout ce qui est artistique sur le campus. Ça passe par l’organisation d’évènements tout au long de l’année, la gestion de Clubs artistes dans de nombreux domaines différents et la mise en place d’une billetterie en ligne permettant d’avoir des tarifs préférentiels dans des salles de spectacle parisiennes.
+8261444;Anick;PICHAUD;W;anick.pichaud@centralesupelec.fr;member;FACS;Fédération d'associations de CS, cadre légal et financier d'une partie de l'associatif de CentraleSupélec, distribue des subventions et organise la coopération entre les associations
+4884321;Geneviève;BLON;M;genevieve.blon@centralesupelec.fr;member;Sono;
+4884321;Geneviève;BLON;M;genevieve.blon@centralesupelec.fr;member;Toucan Déchaîné;le journal de l'école, impartial et omniscient, il est au coeur de l'actualité et n'hésite pas à révéler les plus grands scandales
+6136699;Aymeric;POIRIER;H;aymeric.poirier@centralesupelec.fr;member;SBCS;Composé des deux associations (Sono et Barco), cette association...
+4631172;Hamid;ALLUSSE;H;hamid.allusse@centralesupelec.fr;member;Barco;installation et exploitation de materiel video
+4631172;Hamid;ALLUSSE;H;hamid.allusse@centralesupelec.fr;member;SBCS;Composé des deux associations (Sono et Barco), cette association...
+4631172;Hamid;ALLUSSE;H;hamid.allusse@centralesupelec.fr;member;Toucan Déchaîné;le journal de l'école, impartial et omniscient, il est au coeur de l'actualité et n'hésite pas à révéler les plus grands scandales
+455954;Florian;DIDIER;H;florian.didier@centralesupelec.fr;member;Impact;
+3079755;Marie-Therese;RIBAULT;W;marie-therese.ribault@centralesupelec.fr;member;Sono;
+3079755;Marie-Therese;RIBAULT;W;marie-therese.ribault@centralesupelec.fr;member;Band'à Joe;la fanfare, où tout le monde débute un instrument et qui organise des voyages dans la France et l'Europe pour jouer de la musique
+3079755;Marie-Therese;RIBAULT;W;marie-therese.ribault@centralesupelec.fr;member;Cheer Up;une association qui accompagne des jeunes de 15 à 25 ans malades du cancer et les aide à réaliser leur projet
+2284632;Jean-Hervé;DA SILVA;H;jean-herve.da silva@centralesupelec.fr;member;Impact;
+2605131;Romain;BLANCHARD;H;romain.blanchard@centralesupelec.fr;member;BDA;l’asso qui s’occupe de tout ce qui est artistique sur le campus. Ça passe par l’organisation d’évènements tout au long de l’année, la gestion de Clubs artistes dans de nombreux domaines différents et la mise en place d’une billetterie en ligne permettant d’avoir des tarifs préférentiels dans des salles de spectacle parisiennes.
+2605131;Romain;BLANCHARD;H;romain.blanchard@centralesupelec.fr;member;Band'à Joe;la fanfare, où tout le monde débute un instrument et qui organise des voyages dans la France et l'Europe pour jouer de la musique
+2605131;Romain;BLANCHARD;H;romain.blanchard@centralesupelec.fr;member;BDE;représente les élèves de CentraleSupélec auprès de la direction et coordonne la vie associative sur le campus
+6119439;Alison;CONSTANTIN;fille;alison.constantin@centralesupelec.fr;member;BDA;l’asso qui s’occupe de tout ce qui est artistique sur le campus. Ça passe par l’organisation d’évènements tout au long de l’année, la gestion de Clubs artistes dans de nombreux domaines différents et la mise en place d’une billetterie en ligne permettant d’avoir des tarifs préférentiels dans des salles de spectacle parisiennes.
+4493579;Karine;MAINDRON;garçon;karine.maindron@centralesupelec.fr;member;Band'à Joe;la fanfare, où tout le monde débute un instrument et qui organise des voyages dans la France et l'Europe pour jouer de la musique
+9483832;Carmelo;BARBIN;M;carmelo.barbin@centralesupelec.fr;member;BDA;l’asso qui s’occupe de tout ce qui est artistique sur le campus. Ça passe par l’organisation d’évènements tout au long de l’année, la gestion de Clubs artistes dans de nombreux domaines différents et la mise en place d’une billetterie en ligne permettant d’avoir des tarifs préférentiels dans des salles de spectacle parisiennes.
+9483832;Carmelo;BARBIN;M;carmelo.barbin@centralesupelec.fr;member;Toucan Déchaîné;le journal de l'école, impartial et omniscient, il est au coeur de l'actualité et n'hésite pas à révéler les plus grands scandales
+9483832;Carmelo;BARBIN;M;carmelo.barbin@centralesupelec.fr;member;BDE;représente les élèves de CentraleSupélec auprès de la direction et coordonne la vie associative sur le campus
+6360966;Eddie;PELLUAU;garçon;eddie.pelluau@centralesupelec.fr;member;FACS;Fédération d'associations de CS, cadre légal et financier d'une partie de l'associatif de CentraleSupélec, distribue des subventions et organise la coopération entre les associations
+8171384;Thérèse-Marie;PICARD;fille;therese-marie.picard@centralesupelec.fr;member;Cheer Up;une association qui accompagne des jeunes de 15 à 25 ans malades du cancer et les aide à réaliser leur projet
+8171384;Thérèse-Marie;PICARD;fille;therese-marie.picard@centralesupelec.fr;member;FACS;Fédération d'associations de CS, cadre légal et financier d'une partie de l'associatif de CentraleSupélec, distribue des subventions et organise la coopération entre les associations
+9896491;Raphaelle;BUSSON;fille;raphaelle.busson@centralesupelec.fr;member;Junior CentraleSupelec (JCS);Junior Entreprise de CS, cette association d'étudiants a vocation économique et pédagogique mais a but non lucratif permet aux eleves de monter en compétences en leur proposant de réaliser des missions pour des clients
+5879679;Siméon;CHATAIGNER;garçon;simeon.chataigner@centralesupelec.fr;member;Band'à Joe;la fanfare, où tout le monde débute un instrument et qui organise des voyages dans la France et l'Europe pour jouer de la musique
+3280740;Emilienne;BRANCHU;W;emilienne.branchu@centralesupelec.fr;member;Junior CentraleSupelec (JCS);Junior Entreprise de CS, cette association d'étudiants a vocation économique et pédagogique mais a but non lucratif permet aux eleves de monter en compétences en leur proposant de réaliser des missions pour des clients
+1173540;Karin;GENTILHOMME;W;karin.gentilhomme@centralesupelec.fr;member;Sono;
+1173540;Karin;GENTILHOMME;W;karin.gentilhomme@centralesupelec.fr;member;Impact;
+1173540;Karin;GENTILHOMME;W;karin.gentilhomme@centralesupelec.fr;member;Band'à Joe;la fanfare, où tout le monde débute un instrument et qui organise des voyages dans la France et l'Europe pour jouer de la musique
+8200792;David;MAILLET;W;david.maillet@centralesupelec.fr;member;Cheer Up;une association qui accompagne des jeunes de 15 à 25 ans malades du cancer et les aide à réaliser leur projet
+8200792;David;MAILLET;W;david.maillet@centralesupelec.fr;member;Toucan Déchaîné;le journal de l'école, impartial et omniscient, il est au coeur de l'actualité et n'hésite pas à révéler les plus grands scandales
+8200792;David;MAILLET;W;david.maillet@centralesupelec.fr;member;SBCS;Composé des deux associations (Sono et Barco), cette association...
+1696413;Pierre André;LIZE;M;pierre andre.lize@centralesupelec.fr;member;Band'à Joe;la fanfare, où tout le monde débute un instrument et qui organise des voyages dans la France et l'Europe pour jouer de la musique
+1696413;Pierre André;LIZE;M;pierre andre.lize@centralesupelec.fr;member;Cheer Up;une association qui accompagne des jeunes de 15 à 25 ans malades du cancer et les aide à réaliser leur projet
+697403;Romuald;ROCHAIS;garçon;romuald.rochais@centralesupelec.fr;member;SBCS;Composé des deux associations (Sono et Barco), cette association...
+697403;Romuald;ROCHAIS;garçon;romuald.rochais@centralesupelec.fr;member;Barco;installation et exploitation de materiel video
+697403;Romuald;ROCHAIS;garçon;romuald.rochais@centralesupelec.fr;member;BDA;l’asso qui s’occupe de tout ce qui est artistique sur le campus. Ça passe par l’organisation d’évènements tout au long de l’année, la gestion de Clubs artistes dans de nombreux domaines différents et la mise en place d’une billetterie en ligne permettant d’avoir des tarifs préférentiels dans des salles de spectacle parisiennes.
+2338037;Anicet;PAUL;garçon;anicet.paul@centralesupelec.fr;member;Sono;
+2338037;Anicet;PAUL;garçon;anicet.paul@centralesupelec.fr;member;BDA;l’asso qui s’occupe de tout ce qui est artistique sur le campus. Ça passe par l’organisation d’évènements tout au long de l’année, la gestion de Clubs artistes dans de nombreux domaines différents et la mise en place d’une billetterie en ligne permettant d’avoir des tarifs préférentiels dans des salles de spectacle parisiennes.
+5559063;Magali;BLAITEAU;M;magali.blaiteau@centralesupelec.fr;member;Cheer Up;une association qui accompagne des jeunes de 15 à 25 ans malades du cancer et les aide à réaliser leur projet
+1829605;Ariane;BOULLAIS;W;ariane.boullais@centralesupelec.fr;member;BDA;l’asso qui s’occupe de tout ce qui est artistique sur le campus. Ça passe par l’organisation d’évènements tout au long de l’année, la gestion de Clubs artistes dans de nombreux domaines différents et la mise en place d’une billetterie en ligne permettant d’avoir des tarifs préférentiels dans des salles de spectacle parisiennes.
+7889033;Coralie;CHEVET;W;coralie.chevet@centralesupelec.fr;member;Band'à Joe;la fanfare, où tout le monde débute un instrument et qui organise des voyages dans la France et l'Europe pour jouer de la musique
+7889033;Coralie;CHEVET;W;coralie.chevet@centralesupelec.fr;member;Barco;installation et exploitation de materiel video
+7889033;Coralie;CHEVET;W;coralie.chevet@centralesupelec.fr;member;SBCS;Composé des deux associations (Sono et Barco), cette association...
+6734111;Théo;DELARUE;M;theo.delarue@centralesupelec.fr;member;SBCS;Composé des deux associations (Sono et Barco), cette association...
+6734111;Théo;DELARUE;M;theo.delarue@centralesupelec.fr;member;BDE;représente les élèves de CentraleSupélec auprès de la direction et coordonne la vie associative sur le campus
+4131535;Marie-Alice;LEGRAND;W;marie-alice.legrand@centralesupelec.fr;member;BDE;représente les élèves de CentraleSupélec auprès de la direction et coordonne la vie associative sur le campus
+4131535;Marie-Alice;LEGRAND;W;marie-alice.legrand@centralesupelec.fr;member;BDA;l’asso qui s’occupe de tout ce qui est artistique sur le campus. Ça passe par l’organisation d’évènements tout au long de l’année, la gestion de Clubs artistes dans de nombreux domaines différents et la mise en place d’une billetterie en ligne permettant d’avoir des tarifs préférentiels dans des salles de spectacle parisiennes.
+9302400;Karim;NAULEAU;H;karim.nauleau@centralesupelec.fr;member;Barco;installation et exploitation de materiel video
+9302400;Karim;NAULEAU;H;karim.nauleau@centralesupelec.fr;member;Toucan Déchaîné;le journal de l'école, impartial et omniscient, il est au coeur de l'actualité et n'hésite pas à révéler les plus grands scandales
+1178592;Christine;PROUST;H;christine.proust@centralesupelec.fr;member;BDE;représente les élèves de CentraleSupélec auprès de la direction et coordonne la vie associative sur le campus
+1178592;Christine;PROUST;H;christine.proust@centralesupelec.fr;member;Sono;
+2077845;Fatiha;TESSIER;W;fatiha.tessier@centralesupelec.fr;member;Junior CentraleSupelec (JCS);Junior Entreprise de CS, cette association d'étudiants a vocation économique et pédagogique mais a but non lucratif permet aux eleves de monter en compétences en leur proposant de réaliser des missions pour des clients
+2077845;Fatiha;TESSIER;W;fatiha.tessier@centralesupelec.fr;member;Impact;
+2077845;Fatiha;TESSIER;W;fatiha.tessier@centralesupelec.fr;member;Toucan Déchaîné;le journal de l'école, impartial et omniscient, il est au coeur de l'actualité et n'hésite pas à révéler les plus grands scandales
+4244014;Thiery;LECLAIR;M;thiery.leclair@centralesupelec.fr;member;Sono;
+2708101;Jean-Marie;TAVEAU;garçon;jean-marie.taveau@centralesupelec.fr;member;Impact;
+2708101;Jean-Marie;TAVEAU;garçon;jean-marie.taveau@centralesupelec.fr;member;Barco;installation et exploitation de materiel video
+2708101;Jean-Marie;TAVEAU;garçon;jean-marie.taveau@centralesupelec.fr;member;Cheer Up;une association qui accompagne des jeunes de 15 à 25 ans malades du cancer et les aide à réaliser leur projet
+4988197;Dorothee;FEVRIER;F;dorothee.fevrier@centralesupelec.fr;member;BDA;l’asso qui s’occupe de tout ce qui est artistique sur le campus. Ça passe par l’organisation d’évènements tout au long de l’année, la gestion de Clubs artistes dans de nombreux domaines différents et la mise en place d’une billetterie en ligne permettant d’avoir des tarifs préférentiels dans des salles de spectacle parisiennes.
+4988197;Dorothee;FEVRIER;F;dorothee.fevrier@centralesupelec.fr;member;Barco;installation et exploitation de materiel video
+4988197;Dorothee;FEVRIER;F;dorothee.fevrier@centralesupelec.fr;member;Cheer Up;une association qui accompagne des jeunes de 15 à 25 ans malades du cancer et les aide à réaliser leur projet
+93782;Suzanne;AUBRY;H;suzanne.aubry@centralesupelec.fr;member;Cheer Up;une association qui accompagne des jeunes de 15 à 25 ans malades du cancer et les aide à réaliser leur projet
+93782;Suzanne;AUBRY;H;suzanne.aubry@centralesupelec.fr;member;FACS;Fédération d'associations de CS, cadre légal et financier d'une partie de l'associatif de CentraleSupélec, distribue des subventions et organise la coopération entre les associations
+93782;Suzanne;AUBRY;H;suzanne.aubry@centralesupelec.fr;member;Toucan Déchaîné;le journal de l'école, impartial et omniscient, il est au coeur de l'actualité et n'hésite pas à révéler les plus grands scandales
+8156351;Eugène;ANDRE;M;eugene.andre@centralesupelec.fr;member;Band'à Joe;la fanfare, où tout le monde débute un instrument et qui organise des voyages dans la France et l'Europe pour jouer de la musique
+8156351;Eugène;ANDRE;M;eugene.andre@centralesupelec.fr;member;SBCS;Composé des deux associations (Sono et Barco), cette association...
+8018418;Marianne;GALLET;M;marianne.gallet@centralesupelec.fr;member;Sono;
+8018418;Marianne;GALLET;M;marianne.gallet@centralesupelec.fr;member;Impact;
+4226631;Thierry;MIGNOT;M;thierry.mignot@centralesupelec.fr;member;Impact;
+6032026;Guylène;MORIN;F;guylene.morin@centralesupelec.fr;member;SBCS;Composé des deux associations (Sono et Barco), cette association...
+9921861;Sylvestre;DEVY;H;sylvestre.devy@centralesupelec.fr;member;Junior CentraleSupelec (JCS);Junior Entreprise de CS, cette association d'étudiants a vocation économique et pédagogique mais a but non lucratif permet aux eleves de monter en compétences en leur proposant de réaliser des missions pour des clients
+5224127;Ernestine;BELANGER;F;ernestine.belanger@centralesupelec.fr;member;Junior CentraleSupelec (JCS);Junior Entreprise de CS, cette association d'étudiants a vocation économique et pédagogique mais a but non lucratif permet aux eleves de monter en compétences en leur proposant de réaliser des missions pour des clients
+5224127;Ernestine;BELANGER;F;ernestine.belanger@centralesupelec.fr;member;Impact;
+4022307;Corine;HOMER;fille;corine.homer@centralesupelec.fr;member;BDA;l’asso qui s’occupe de tout ce qui est artistique sur le campus. Ça passe par l’organisation d’évènements tout au long de l’année, la gestion de Clubs artistes dans de nombreux domaines différents et la mise en place d’une billetterie en ligne permettant d’avoir des tarifs préférentiels dans des salles de spectacle parisiennes.
+4022307;Corine;HOMER;fille;corine.homer@centralesupelec.fr;member;Sono;
+9629022;Cendrine;BOURBON;fille;cendrine.bourbon@centralesupelec.fr;member;Impact;
+378085;Prosper;HUCHON;H;prosper.huchon@centralesupelec.fr;member;Band'à Joe;la fanfare, où tout le monde débute un instrument et qui organise des voyages dans la France et l'Europe pour jouer de la musique
+7183635;Marie-Jeanne;DUBREUIL;garçon;marie-jeanne.dubreuil@centralesupelec.fr;member;BDE;représente les élèves de CentraleSupélec auprès de la direction et coordonne la vie associative sur le campus
+7183635;Marie-Jeanne;DUBREUIL;garçon;marie-jeanne.dubreuil@centralesupelec.fr;member;Toucan Déchaîné;le journal de l'école, impartial et omniscient, il est au coeur de l'actualité et n'hésite pas à révéler les plus grands scandales
+8667146;Jeremy;AUBINEAU;H;jeremy.aubineau@centralesupelec.fr;member;Junior CentraleSupelec (JCS);Junior Entreprise de CS, cette association d'étudiants a vocation économique et pédagogique mais a but non lucratif permet aux eleves de monter en compétences en leur proposant de réaliser des missions pour des clients
+8667146;Jeremy;AUBINEAU;H;jeremy.aubineau@centralesupelec.fr;member;Toucan Déchaîné;le journal de l'école, impartial et omniscient, il est au coeur de l'actualité et n'hésite pas à révéler les plus grands scandales
+6218844;Meriem;CHUDEAU;W;meriem.chudeau@centralesupelec.fr;member;BDE;représente les élèves de CentraleSupélec auprès de la direction et coordonne la vie associative sur le campus
+8449224;Ahmed;LHERMITEAU;H;ahmed.lhermiteau@centralesupelec.fr;member;Barco;installation et exploitation de materiel video
+8449224;Ahmed;LHERMITEAU;H;ahmed.lhermiteau@centralesupelec.fr;member;BDE;représente les élèves de CentraleSupélec auprès de la direction et coordonne la vie associative sur le campus
+6066463;Janick;COUDERT;W;janick.coudert@centralesupelec.fr;member;Band'à Joe;la fanfare, où tout le monde débute un instrument et qui organise des voyages dans la France et l'Europe pour jouer de la musique
+6066463;Janick;COUDERT;W;janick.coudert@centralesupelec.fr;member;FACS;Fédération d'associations de CS, cadre légal et financier d'une partie de l'associatif de CentraleSupélec, distribue des subventions et organise la coopération entre les associations
+6066463;Janick;COUDERT;W;janick.coudert@centralesupelec.fr;member;Junior CentraleSupelec (JCS);Junior Entreprise de CS, cette association d'étudiants a vocation économique et pédagogique mais a but non lucratif permet aux eleves de monter en compétences en leur proposant de réaliser des missions pour des clients
+7367140;Joël;GRIFFON;fille;joel.griffon@centralesupelec.fr;member;BDE;représente les élèves de CentraleSupélec auprès de la direction et coordonne la vie associative sur le campus
+7367140;Joël;GRIFFON;fille;joel.griffon@centralesupelec.fr;member;Junior CentraleSupelec (JCS);Junior Entreprise de CS, cette association d'étudiants a vocation économique et pédagogique mais a but non lucratif permet aux eleves de monter en compétences en leur proposant de réaliser des missions pour des clients
+9754036;Dorothée;BIENVENU;W;dorothee.bienvenu@centralesupelec.fr;member;Junior CentraleSupelec (JCS);Junior Entreprise de CS, cette association d'étudiants a vocation économique et pédagogique mais a but non lucratif permet aux eleves de monter en compétences en leur proposant de réaliser des missions pour des clients
+9754036;Dorothée;BIENVENU;W;dorothee.bienvenu@centralesupelec.fr;member;Impact;
+9754036;Dorothée;BIENVENU;W;dorothee.bienvenu@centralesupelec.fr;member;BDE;représente les élèves de CentraleSupélec auprès de la direction et coordonne la vie associative sur le campus
+7279332;Lorène;TREMBLAY;W;lorene.tremblay@centralesupelec.fr;member;FACS;Fédération d'associations de CS, cadre légal et financier d'une partie de l'associatif de CentraleSupélec, distribue des subventions et organise la coopération entre les associations
+7279332;Lorène;TREMBLAY;W;lorene.tremblay@centralesupelec.fr;member;BDE;représente les élèves de CentraleSupélec auprès de la direction et coordonne la vie associative sur le campus
+7279332;Lorène;TREMBLAY;W;lorene.tremblay@centralesupelec.fr;member;SBCS;Composé des deux associations (Sono et Barco), cette association...
+8559938;Rose-May;CRESPIN;W;rose-may.crespin@centralesupelec.fr;member;Impact;
+8559938;Rose-May;CRESPIN;W;rose-may.crespin@centralesupelec.fr;member;Band'à Joe;la fanfare, où tout le monde débute un instrument et qui organise des voyages dans la France et l'Europe pour jouer de la musique
+8559938;Rose-May;CRESPIN;W;rose-may.crespin@centralesupelec.fr;member;BDE;représente les élèves de CentraleSupélec auprès de la direction et coordonne la vie associative sur le campus
+8298694;Diego;PETIT;H;diego.petit@centralesupelec.fr;member;Junior CentraleSupelec (JCS);Junior Entreprise de CS, cette association d'étudiants a vocation économique et pédagogique mais a but non lucratif permet aux eleves de monter en compétences en leur proposant de réaliser des missions pour des clients
+8298694;Diego;PETIT;H;diego.petit@centralesupelec.fr;member;Sono;
+8113264;Georges;TRICOT;garçon;georges.tricot@centralesupelec.fr;member;Sono;
+8113264;Georges;TRICOT;garçon;georges.tricot@centralesupelec.fr;member;BDA;l’asso qui s’occupe de tout ce qui est artistique sur le campus. Ça passe par l’organisation d’évènements tout au long de l’année, la gestion de Clubs artistes dans de nombreux domaines différents et la mise en place d’une billetterie en ligne permettant d’avoir des tarifs préférentiels dans des salles de spectacle parisiennes.
+7469007;Stephane;UZUREAU;garçon;stephane.uzureau@centralesupelec.fr;member;SBCS;Composé des deux associations (Sono et Barco), cette association...
+7469007;Stephane;UZUREAU;garçon;stephane.uzureau@centralesupelec.fr;member;BDE;représente les élèves de CentraleSupélec auprès de la direction et coordonne la vie associative sur le campus
+7469007;Stephane;UZUREAU;garçon;stephane.uzureau@centralesupelec.fr;member;Junior CentraleSupelec (JCS);Junior Entreprise de CS, cette association d'étudiants a vocation économique et pédagogique mais a but non lucratif permet aux eleves de monter en compétences en leur proposant de réaliser des missions pour des clients
+7095740;Flora;HUBAULT;fille;flora.hubault@centralesupelec.fr;member;Toucan Déchaîné;le journal de l'école, impartial et omniscient, il est au coeur de l'actualité et n'hésite pas à révéler les plus grands scandales
+7095740;Flora;HUBAULT;fille;flora.hubault@centralesupelec.fr;member;Sono;
+660365;Annabel;CROSNIER;fille;annabel.crosnier@centralesupelec.fr;member;BDE;représente les élèves de CentraleSupélec auprès de la direction et coordonne la vie associative sur le campus
+3339188;Marie-Elisabeth;VIVION;W;marie-elisabeth.vivion@centralesupelec.fr;member;Band'à Joe;la fanfare, où tout le monde débute un instrument et qui organise des voyages dans la France et l'Europe pour jouer de la musique
+3339188;Marie-Elisabeth;VIVION;W;marie-elisabeth.vivion@centralesupelec.fr;member;FACS;Fédération d'associations de CS, cadre légal et financier d'une partie de l'associatif de CentraleSupélec, distribue des subventions et organise la coopération entre les associations
+3339188;Marie-Elisabeth;VIVION;W;marie-elisabeth.vivion@centralesupelec.fr;member;Barco;installation et exploitation de materiel video
+5810703;Severine;REBONDY;W;severine.rebondy@centralesupelec.fr;member;SBCS;Composé des deux associations (Sono et Barco), cette association...
+5810703;Severine;REBONDY;W;severine.rebondy@centralesupelec.fr;member;Sono;
+3826518;Gina;BELANGER;W;gina.belanger@centralesupelec.fr;member;FACS;Fédération d'associations de CS, cadre légal et financier d'une partie de l'associatif de CentraleSupélec, distribue des subventions et organise la coopération entre les associations
+9437095;Werner;HULLIN;M;werner.hullin@centralesupelec.fr;member;SBCS;Composé des deux associations (Sono et Barco), cette association...
+9405837;Marinette;JURET;W;marinette.juret@centralesupelec.fr;member;BDA;l’asso qui s’occupe de tout ce qui est artistique sur le campus. Ça passe par l’organisation d’évènements tout au long de l’année, la gestion de Clubs artistes dans de nombreux domaines différents et la mise en place d’une billetterie en ligne permettant d’avoir des tarifs préférentiels dans des salles de spectacle parisiennes.
+5679002;Solenne;BLANCHARD;W;solenne.blanchard@centralesupelec.fr;member;Toucan Déchaîné;le journal de l'école, impartial et omniscient, il est au coeur de l'actualité et n'hésite pas à révéler les plus grands scandales
+5679002;Solenne;BLANCHARD;W;solenne.blanchard@centralesupelec.fr;member;BDE;représente les élèves de CentraleSupélec auprès de la direction et coordonne la vie associative sur le campus
+9094742;Thérèse-Marie;THOMAS;F;therese-marie.thomas@centralesupelec.fr;member;Impact;
+9094742;Thérèse-Marie;THOMAS;F;therese-marie.thomas@centralesupelec.fr;member;SBCS;Composé des deux associations (Sono et Barco), cette association...
+9094742;Thérèse-Marie;THOMAS;F;therese-marie.thomas@centralesupelec.fr;member;Sono;
+7489903;Davy;ALEXANDRE;M;davy.alexandre@centralesupelec.fr;member;FACS;Fédération d'associations de CS, cadre légal et financier d'une partie de l'associatif de CentraleSupélec, distribue des subventions et organise la coopération entre les associations
+9413847;Tamara;CHOLET;fille;tamara.cholet@centralesupelec.fr;member;Impact;
+9413847;Tamara;CHOLET;fille;tamara.cholet@centralesupelec.fr;member;Cheer Up;une association qui accompagne des jeunes de 15 à 25 ans malades du cancer et les aide à réaliser leur projet
+9413847;Tamara;CHOLET;fille;tamara.cholet@centralesupelec.fr;member;BDE;représente les élèves de CentraleSupélec auprès de la direction et coordonne la vie associative sur le campus
+7311187;Hugo;DESHAYES;M;hugo.deshayes@centralesupelec.fr;member;Band'à Joe;la fanfare, où tout le monde débute un instrument et qui organise des voyages dans la France et l'Europe pour jouer de la musique
+8203047;Désiré;POTTIER;H;desire.pottier@centralesupelec.fr;member;FACS;Fédération d'associations de CS, cadre légal et financier d'une partie de l'associatif de CentraleSupélec, distribue des subventions et organise la coopération entre les associations
+8203047;Désiré;POTTIER;H;desire.pottier@centralesupelec.fr;member;Sono;
+3411639;Annaïck;CRETIN;F;annaick.cretin@centralesupelec.fr;member;Cheer Up;une association qui accompagne des jeunes de 15 à 25 ans malades du cancer et les aide à réaliser leur projet
+3411639;Annaïck;CRETIN;F;annaick.cretin@centralesupelec.fr;member;FACS;Fédération d'associations de CS, cadre légal et financier d'une partie de l'associatif de CentraleSupélec, distribue des subventions et organise la coopération entre les associations
+3411639;Annaïck;CRETIN;F;annaick.cretin@centralesupelec.fr;member;Barco;installation et exploitation de materiel video
+8516750;Irénée;DEVEAU;garçon;irenee.deveau@centralesupelec.fr;member;BDE;représente les élèves de CentraleSupélec auprès de la direction et coordonne la vie associative sur le campus
+8516750;Irénée;DEVEAU;garçon;irenee.deveau@centralesupelec.fr;member;Barco;installation et exploitation de materiel video
+8516750;Irénée;DEVEAU;garçon;irenee.deveau@centralesupelec.fr;member;Toucan Déchaîné;le journal de l'école, impartial et omniscient, il est au coeur de l'actualité et n'hésite pas à révéler les plus grands scandales
+5352488;Pauline;JOLIVET;F;pauline.jolivet@centralesupelec.fr;member;Impact;
+7101049;Daniela;DINAND;fille;daniela.dinand@centralesupelec.fr;member;BDA;l’asso qui s’occupe de tout ce qui est artistique sur le campus. Ça passe par l’organisation d’évènements tout au long de l’année, la gestion de Clubs artistes dans de nombreux domaines différents et la mise en place d’une billetterie en ligne permettant d’avoir des tarifs préférentiels dans des salles de spectacle parisiennes.
+6359723;Axel;POITOU;garçon;axel.poitou@centralesupelec.fr;member;Sono;
+6359723;Axel;POITOU;garçon;axel.poitou@centralesupelec.fr;member;BDE;représente les élèves de CentraleSupélec auprès de la direction et coordonne la vie associative sur le campus
+6359723;Axel;POITOU;garçon;axel.poitou@centralesupelec.fr;member;Band'à Joe;la fanfare, où tout le monde débute un instrument et qui organise des voyages dans la France et l'Europe pour jouer de la musique
+9428129;Florine;DUBIN;F;florine.dubin@centralesupelec.fr;member;Impact;
+9428129;Florine;DUBIN;F;florine.dubin@centralesupelec.fr;member;Barco;installation et exploitation de materiel video
+5633652;Jerôme;FLECHEAU;M;jerome.flecheau@centralesupelec.fr;member;Junior CentraleSupelec (JCS);Junior Entreprise de CS, cette association d'étudiants a vocation économique et pédagogique mais a but non lucratif permet aux eleves de monter en compétences en leur proposant de réaliser des missions pour des clients
+5633652;Jerôme;FLECHEAU;M;jerome.flecheau@centralesupelec.fr;member;SBCS;Composé des deux associations (Sono et Barco), cette association...
+6976364;Juliana;BRECHETEAU;fille;juliana.brecheteau@centralesupelec.fr;member;BDA;l’asso qui s’occupe de tout ce qui est artistique sur le campus. Ça passe par l’organisation d’évènements tout au long de l’année, la gestion de Clubs artistes dans de nombreux domaines différents et la mise en place d’une billetterie en ligne permettant d’avoir des tarifs préférentiels dans des salles de spectacle parisiennes.
+9034456;Arnold;COUTAND;H;arnold.coutand@centralesupelec.fr;member;Barco;installation et exploitation de materiel video
+8710431;Richard;BLUTEAU;M;richard.bluteau@centralesupelec.fr;member;BDE;représente les élèves de CentraleSupélec auprès de la direction et coordonne la vie associative sur le campus
+7662077;Gianni;BARBARIN;M;gianni.barbarin@centralesupelec.fr;member;Barco;installation et exploitation de materiel video
+7662077;Gianni;BARBARIN;M;gianni.barbarin@centralesupelec.fr;member;Junior CentraleSupelec (JCS);Junior Entreprise de CS, cette association d'étudiants a vocation économique et pédagogique mais a but non lucratif permet aux eleves de monter en compétences en leur proposant de réaliser des missions pour des clients
+2038955;Roger;BOURSIER;garçon;roger.boursier@centralesupelec.fr;member;Sono;
+2838672;Armel;BOCHEREAU;H;armel.bochereau@centralesupelec.fr;member;SBCS;Composé des deux associations (Sono et Barco), cette association...
+4280311;Claire;COSNARD;garçon;claire.cosnard@centralesupelec.fr;member;BDA;l’asso qui s’occupe de tout ce qui est artistique sur le campus. Ça passe par l’organisation d’évènements tout au long de l’année, la gestion de Clubs artistes dans de nombreux domaines différents et la mise en place d’une billetterie en ligne permettant d’avoir des tarifs préférentiels dans des salles de spectacle parisiennes.
+4280311;Claire;COSNARD;garçon;claire.cosnard@centralesupelec.fr;member;Sono;
+4280311;Claire;COSNARD;garçon;claire.cosnard@centralesupelec.fr;member;Cheer Up;une association qui accompagne des jeunes de 15 à 25 ans malades du cancer et les aide à réaliser leur projet
+3703398;Dalila;LEMAITRE;W;dalila.lemaitre@centralesupelec.fr;member;Impact;
+3703398;Dalila;LEMAITRE;W;dalila.lemaitre@centralesupelec.fr;member;BDE;représente les élèves de CentraleSupélec auprès de la direction et coordonne la vie associative sur le campus
+3703398;Dalila;LEMAITRE;W;dalila.lemaitre@centralesupelec.fr;member;FACS;Fédération d'associations de CS, cadre légal et financier d'une partie de l'associatif de CentraleSupélec, distribue des subventions et organise la coopération entre les associations
+8175073;Maggy;FRAPPREAU;F;maggy.frappreau@centralesupelec.fr;member;Cheer Up;une association qui accompagne des jeunes de 15 à 25 ans malades du cancer et les aide à réaliser leur projet
+8175073;Maggy;FRAPPREAU;F;maggy.frappreau@centralesupelec.fr;member;SBCS;Composé des deux associations (Sono et Barco), cette association...
+519831;Kathy;SALE;F;kathy.sale@centralesupelec.fr;member;BDA;l’asso qui s’occupe de tout ce qui est artistique sur le campus. Ça passe par l’organisation d’évènements tout au long de l’année, la gestion de Clubs artistes dans de nombreux domaines différents et la mise en place d’une billetterie en ligne permettant d’avoir des tarifs préférentiels dans des salles de spectacle parisiennes.
+519831;Kathy;SALE;F;kathy.sale@centralesupelec.fr;member;SBCS;Composé des deux associations (Sono et Barco), cette association...
+519831;Kathy;SALE;F;kathy.sale@centralesupelec.fr;member;BDE;représente les élèves de CentraleSupélec auprès de la direction et coordonne la vie associative sur le campus
+6274814;Marie-Pierre;CAILLE;H;marie-pierre.caille@centralesupelec.fr;member;SBCS;Composé des deux associations (Sono et Barco), cette association...
+7094369;Laurence;TURPAULT;fille;laurence.turpault@centralesupelec.fr;member;BDA;l’asso qui s’occupe de tout ce qui est artistique sur le campus. Ça passe par l’organisation d’évènements tout au long de l’année, la gestion de Clubs artistes dans de nombreux domaines différents et la mise en place d’une billetterie en ligne permettant d’avoir des tarifs préférentiels dans des salles de spectacle parisiennes.
+7094369;Laurence;TURPAULT;fille;laurence.turpault@centralesupelec.fr;member;Toucan Déchaîné;le journal de l'école, impartial et omniscient, il est au coeur de l'actualité et n'hésite pas à révéler les plus grands scandales
+3049600;Quentin;AVRILLON;H;quentin.avrillon@centralesupelec.fr;member;FACS;Fédération d'associations de CS, cadre légal et financier d'une partie de l'associatif de CentraleSupélec, distribue des subventions et organise la coopération entre les associations
+3049600;Quentin;AVRILLON;H;quentin.avrillon@centralesupelec.fr;member;SBCS;Composé des deux associations (Sono et Barco), cette association...
+3049600;Quentin;AVRILLON;H;quentin.avrillon@centralesupelec.fr;member;Sono;
+9598109;Marie-Rose;LANGE;fille;marie-rose.lange@centralesupelec.fr;member;Impact;
+9598109;Marie-Rose;LANGE;fille;marie-rose.lange@centralesupelec.fr;member;BDA;l’asso qui s’occupe de tout ce qui est artistique sur le campus. Ça passe par l’organisation d’évènements tout au long de l’année, la gestion de Clubs artistes dans de nombreux domaines différents et la mise en place d’une billetterie en ligne permettant d’avoir des tarifs préférentiels dans des salles de spectacle parisiennes.
+9598109;Marie-Rose;LANGE;fille;marie-rose.lange@centralesupelec.fr;member;Barco;installation et exploitation de materiel video
+9874366;Marie Françoise;BOURDAIS;W;marie francoise.bourdais@centralesupelec.fr;member;Band'à Joe;la fanfare, où tout le monde débute un instrument et qui organise des voyages dans la France et l'Europe pour jouer de la musique
+9874366;Marie Françoise;BOURDAIS;W;marie francoise.bourdais@centralesupelec.fr;member;Cheer Up;une association qui accompagne des jeunes de 15 à 25 ans malades du cancer et les aide à réaliser leur projet
+9094168;Sylvian;THOREAU;M;sylvian.thoreau@centralesupelec.fr;member;Band'à Joe;la fanfare, où tout le monde débute un instrument et qui organise des voyages dans la France et l'Europe pour jouer de la musique
+9094168;Sylvian;THOREAU;M;sylvian.thoreau@centralesupelec.fr;member;BDE;représente les élèves de CentraleSupélec auprès de la direction et coordonne la vie associative sur le campus
+4430853;Pierre;DAVY;garçon;pierre.davy@centralesupelec.fr;member;Impact;
+4430853;Pierre;DAVY;garçon;pierre.davy@centralesupelec.fr;member;BDA;l’asso qui s’occupe de tout ce qui est artistique sur le campus. Ça passe par l’organisation d’évènements tout au long de l’année, la gestion de Clubs artistes dans de nombreux domaines différents et la mise en place d’une billetterie en ligne permettant d’avoir des tarifs préférentiels dans des salles de spectacle parisiennes.
+1321828;Bernard;SAUVAGET;H;bernard.sauvaget@centralesupelec.fr;member;Band'à Joe;la fanfare, où tout le monde débute un instrument et qui organise des voyages dans la France et l'Europe pour jouer de la musique
+2581714;Claudine;ROBICHON;garçon;claudine.robichon@centralesupelec.fr;member;Cheer Up;une association qui accompagne des jeunes de 15 à 25 ans malades du cancer et les aide à réaliser leur projet
+519158;Martin;MARCEAU;H;martin.marceau@centralesupelec.fr;member;BDA;l’asso qui s’occupe de tout ce qui est artistique sur le campus. Ça passe par l’organisation d’évènements tout au long de l’année, la gestion de Clubs artistes dans de nombreux domaines différents et la mise en place d’une billetterie en ligne permettant d’avoir des tarifs préférentiels dans des salles de spectacle parisiennes.
+519158;Martin;MARCEAU;H;martin.marceau@centralesupelec.fr;member;FACS;Fédération d'associations de CS, cadre légal et financier d'une partie de l'associatif de CentraleSupélec, distribue des subventions et organise la coopération entre les associations
+519158;Martin;MARCEAU;H;martin.marceau@centralesupelec.fr;member;SBCS;Composé des deux associations (Sono et Barco), cette association...
+2711330;Francisque;BLUTEAU;H;francisque.bluteau@centralesupelec.fr;member;SBCS;Composé des deux associations (Sono et Barco), cette association...
+7967859;Marie-Danielle;ETIENNE;F;marie-danielle.etienne@centralesupelec.fr;member;BDE;représente les élèves de CentraleSupélec auprès de la direction et coordonne la vie associative sur le campus
+7967859;Marie-Danielle;ETIENNE;F;marie-danielle.etienne@centralesupelec.fr;member;FACS;Fédération d'associations de CS, cadre légal et financier d'une partie de l'associatif de CentraleSupélec, distribue des subventions et organise la coopération entre les associations
+5620513;Marie Claude;CAILLEAUD;W;marie claude.cailleaud@centralesupelec.fr;member;Sono;
+1673058;Marie Renée;GATE;W;marie renee.gate@centralesupelec.fr;member;Sono;
+1673058;Marie Renée;GATE;W;marie renee.gate@centralesupelec.fr;member;Band'à Joe;la fanfare, où tout le monde débute un instrument et qui organise des voyages dans la France et l'Europe pour jouer de la musique
+6657126;Elvis;RABINEAU;H;elvis.rabineau@centralesupelec.fr;member;Impact;
+361092;Jean-Lou;LEAU;M;jean-lou.leau@centralesupelec.fr;member;Cheer Up;une association qui accompagne des jeunes de 15 à 25 ans malades du cancer et les aide à réaliser leur projet
+361092;Jean-Lou;LEAU;M;jean-lou.leau@centralesupelec.fr;member;BDE;représente les élèves de CentraleSupélec auprès de la direction et coordonne la vie associative sur le campus
+361092;Jean-Lou;LEAU;M;jean-lou.leau@centralesupelec.fr;member;Band'à Joe;la fanfare, où tout le monde débute un instrument et qui organise des voyages dans la France et l'Europe pour jouer de la musique
+6939093;Angéla;PLESSIS;F;angela.plessis@centralesupelec.fr;member;Band'à Joe;la fanfare, où tout le monde débute un instrument et qui organise des voyages dans la France et l'Europe pour jouer de la musique
+6939093;Angéla;PLESSIS;F;angela.plessis@centralesupelec.fr;member;Sono;
+9440070;Samir;SUROT;H;samir.surot@centralesupelec.fr;member;Sono;
+9440070;Samir;SUROT;H;samir.surot@centralesupelec.fr;member;FACS;Fédération d'associations de CS, cadre légal et financier d'une partie de l'associatif de CentraleSupélec, distribue des subventions et organise la coopération entre les associations
+1691150;Eric;CLENET;M;eric.clenet@centralesupelec.fr;member;Sono;
+9876669;Gaetan;LAMOUREUX;garçon;gaetan.lamoureux@centralesupelec.fr;member;Band'à Joe;la fanfare, où tout le monde débute un instrument et qui organise des voyages dans la France et l'Europe pour jouer de la musique
+2104286;Marie-Caroline;LEMAITRE;F;marie-caroline.lemaitre@centralesupelec.fr;member;FACS;Fédération d'associations de CS, cadre légal et financier d'une partie de l'associatif de CentraleSupélec, distribue des subventions et organise la coopération entre les associations
+6112233;Jean Charles;RAHARD;H;jean charles.rahard@centralesupelec.fr;member;Cheer Up;une association qui accompagne des jeunes de 15 à 25 ans malades du cancer et les aide à réaliser leur projet
+6112233;Jean Charles;RAHARD;H;jean charles.rahard@centralesupelec.fr;member;BDA;l’asso qui s’occupe de tout ce qui est artistique sur le campus. Ça passe par l’organisation d’évènements tout au long de l’année, la gestion de Clubs artistes dans de nombreux domaines différents et la mise en place d’une billetterie en ligne permettant d’avoir des tarifs préférentiels dans des salles de spectacle parisiennes.
+6112233;Jean Charles;RAHARD;H;jean charles.rahard@centralesupelec.fr;member;Band'à Joe;la fanfare, où tout le monde débute un instrument et qui organise des voyages dans la France et l'Europe pour jouer de la musique
+1212318;Pierre Louis;BAUDON;garçon;pierre louis.baudon@centralesupelec.fr;member;BDE;représente les élèves de CentraleSupélec auprès de la direction et coordonne la vie associative sur le campus
+1212318;Pierre Louis;BAUDON;garçon;pierre louis.baudon@centralesupelec.fr;member;Band'à Joe;la fanfare, où tout le monde débute un instrument et qui organise des voyages dans la France et l'Europe pour jouer de la musique
+1212318;Pierre Louis;BAUDON;garçon;pierre louis.baudon@centralesupelec.fr;member;Cheer Up;une association qui accompagne des jeunes de 15 à 25 ans malades du cancer et les aide à réaliser leur projet
+5676653;Renaud;BOUIN;H;renaud.bouin@centralesupelec.fr;member;Impact;
+9232177;Mathieu;BONDU;garçon;mathieu.bondu@centralesupelec.fr;member;Band'à Joe;la fanfare, où tout le monde débute un instrument et qui organise des voyages dans la France et l'Europe pour jouer de la musique
+5491107;Rodrigue;JOUANNEAU;H;rodrigue.jouanneau@centralesupelec.fr;member;Band'à Joe;la fanfare, où tout le monde débute un instrument et qui organise des voyages dans la France et l'Europe pour jouer de la musique
+5491107;Rodrigue;JOUANNEAU;H;rodrigue.jouanneau@centralesupelec.fr;member;Toucan Déchaîné;le journal de l'école, impartial et omniscient, il est au coeur de l'actualité et n'hésite pas à révéler les plus grands scandales
+7505370;Félicie;BORDEAU;F;felicie.bordeau@centralesupelec.fr;member;BDE;représente les élèves de CentraleSupélec auprès de la direction et coordonne la vie associative sur le campus
+9149537;Edward;FUZEAU;H;edward.fuzeau@centralesupelec.fr;member;FACS;Fédération d'associations de CS, cadre légal et financier d'une partie de l'associatif de CentraleSupélec, distribue des subventions et organise la coopération entre les associations
+9149537;Edward;FUZEAU;H;edward.fuzeau@centralesupelec.fr;member;BDE;représente les élèves de CentraleSupélec auprès de la direction et coordonne la vie associative sur le campus
+9149537;Edward;FUZEAU;H;edward.fuzeau@centralesupelec.fr;member;Sono;
+6655783;Zineb;ALGOURDIN;W;zineb.algourdin@centralesupelec.fr;member;Impact;
+6655783;Zineb;ALGOURDIN;W;zineb.algourdin@centralesupelec.fr;member;SBCS;Composé des deux associations (Sono et Barco), cette association...
+137467;Jean-Lucien;LEVESQUE;H;jean-lucien.levesque@centralesupelec.fr;member;Impact;
+137467;Jean-Lucien;LEVESQUE;H;jean-lucien.levesque@centralesupelec.fr;member;Toucan Déchaîné;le journal de l'école, impartial et omniscient, il est au coeur de l'actualité et n'hésite pas à révéler les plus grands scandales
+137467;Jean-Lucien;LEVESQUE;H;jean-lucien.levesque@centralesupelec.fr;member;Band'à Joe;la fanfare, où tout le monde débute un instrument et qui organise des voyages dans la France et l'Europe pour jouer de la musique
+5431327;Moise;LORRE;M;moise.lorre@centralesupelec.fr;member;Sono;
+4239962;Conchita;SUTEAU;fille;conchita.suteau@centralesupelec.fr;member;Impact;
+1653783;Erick;RUEL;garçon;erick.ruel@centralesupelec.fr;member;Barco;installation et exploitation de materiel video
+1653783;Erick;RUEL;garçon;erick.ruel@centralesupelec.fr;member;FACS;Fédération d'associations de CS, cadre légal et financier d'une partie de l'associatif de CentraleSupélec, distribue des subventions et organise la coopération entre les associations
+1653783;Erick;RUEL;garçon;erick.ruel@centralesupelec.fr;member;Sono;
+8347453;Régine;GEORGET;M;regine.georget@centralesupelec.fr;member;SBCS;Composé des deux associations (Sono et Barco), cette association...
+8347453;Régine;GEORGET;M;regine.georget@centralesupelec.fr;member;Toucan Déchaîné;le journal de l'école, impartial et omniscient, il est au coeur de l'actualité et n'hésite pas à révéler les plus grands scandales
+8347453;Régine;GEORGET;M;regine.georget@centralesupelec.fr;member;Impact;
+2571528;Samira;CHAUVIERE;W;samira.chauviere@centralesupelec.fr;member;Cheer Up;une association qui accompagne des jeunes de 15 à 25 ans malades du cancer et les aide à réaliser leur projet
+2571528;Samira;CHAUVIERE;W;samira.chauviere@centralesupelec.fr;member;Junior CentraleSupelec (JCS);Junior Entreprise de CS, cette association d'étudiants a vocation économique et pédagogique mais a but non lucratif permet aux eleves de monter en compétences en leur proposant de réaliser des missions pour des clients
+3532542;Linda;CIROT;F;linda.cirot@centralesupelec.fr;member;Junior CentraleSupelec (JCS);Junior Entreprise de CS, cette association d'étudiants a vocation économique et pédagogique mais a but non lucratif permet aux eleves de monter en compétences en leur proposant de réaliser des missions pour des clients
+3532542;Linda;CIROT;F;linda.cirot@centralesupelec.fr;member;Toucan Déchaîné;le journal de l'école, impartial et omniscient, il est au coeur de l'actualité et n'hésite pas à révéler les plus grands scandales
+3532542;Linda;CIROT;F;linda.cirot@centralesupelec.fr;member;BDE;représente les élèves de CentraleSupélec auprès de la direction et coordonne la vie associative sur le campus
+2385670;Marie Dominique;BEUROIS;F;marie dominique.beurois@centralesupelec.fr;member;Sono;
+2385670;Marie Dominique;BEUROIS;F;marie dominique.beurois@centralesupelec.fr;member;Band'à Joe;la fanfare, où tout le monde débute un instrument et qui organise des voyages dans la France et l'Europe pour jouer de la musique
+9828995;Christophe;BARRAUD;W;christophe.barraud@centralesupelec.fr;member;SBCS;Composé des deux associations (Sono et Barco), cette association...
+9828995;Christophe;BARRAUD;W;christophe.barraud@centralesupelec.fr;member;Toucan Déchaîné;le journal de l'école, impartial et omniscient, il est au coeur de l'actualité et n'hésite pas à révéler les plus grands scandales
+9828995;Christophe;BARRAUD;W;christophe.barraud@centralesupelec.fr;member;BDA;l’asso qui s’occupe de tout ce qui est artistique sur le campus. Ça passe par l’organisation d’évènements tout au long de l’année, la gestion de Clubs artistes dans de nombreux domaines différents et la mise en place d’une billetterie en ligne permettant d’avoir des tarifs préférentiels dans des salles de spectacle parisiennes.
+6638000;David;JADAUD;fille;david.jadaud@centralesupelec.fr;member;FACS;Fédération d'associations de CS, cadre légal et financier d'une partie de l'associatif de CentraleSupélec, distribue des subventions et organise la coopération entre les associations
+6638000;David;JADAUD;fille;david.jadaud@centralesupelec.fr;member;Cheer Up;une association qui accompagne des jeunes de 15 à 25 ans malades du cancer et les aide à réaliser leur projet
+6638000;David;JADAUD;fille;david.jadaud@centralesupelec.fr;member;Impact;
+1963506;Vivien;RELION;garçon;vivien.relion@centralesupelec.fr;member;BDA;l’asso qui s’occupe de tout ce qui est artistique sur le campus. Ça passe par l’organisation d’évènements tout au long de l’année, la gestion de Clubs artistes dans de nombreux domaines différents et la mise en place d’une billetterie en ligne permettant d’avoir des tarifs préférentiels dans des salles de spectacle parisiennes.
+1963506;Vivien;RELION;garçon;vivien.relion@centralesupelec.fr;member;Sono;
+1963506;Vivien;RELION;garçon;vivien.relion@centralesupelec.fr;member;Cheer Up;une association qui accompagne des jeunes de 15 à 25 ans malades du cancer et les aide à réaliser leur projet
+2466003;Leon;SOULARD;garçon;leon.soulard@centralesupelec.fr;member;Cheer Up;une association qui accompagne des jeunes de 15 à 25 ans malades du cancer et les aide à réaliser leur projet
+2466003;Leon;SOULARD;garçon;leon.soulard@centralesupelec.fr;member;SBCS;Composé des deux associations (Sono et Barco), cette association...
+2466003;Leon;SOULARD;garçon;leon.soulard@centralesupelec.fr;member;Toucan Déchaîné;le journal de l'école, impartial et omniscient, il est au coeur de l'actualité et n'hésite pas à révéler les plus grands scandales
+1946716;Romaric;CHOQUET;garçon;romaric.choquet@centralesupelec.fr;member;Cheer Up;une association qui accompagne des jeunes de 15 à 25 ans malades du cancer et les aide à réaliser leur projet
+1946716;Romaric;CHOQUET;garçon;romaric.choquet@centralesupelec.fr;member;Impact;
+9893872;Donat;ABELLARD;H;donat.abellard@centralesupelec.fr;member;Band'à Joe;la fanfare, où tout le monde débute un instrument et qui organise des voyages dans la France et l'Europe pour jouer de la musique
+9893872;Donat;ABELLARD;H;donat.abellard@centralesupelec.fr;member;Impact;
+1094114;Anne-Yvonne;DELAGE;F;anne-yvonne.delage@centralesupelec.fr;member;Barco;installation et exploitation de materiel video
+1094114;Anne-Yvonne;DELAGE;F;anne-yvonne.delage@centralesupelec.fr;member;Sono;
+3122629;Gautier;DELAPORTE;garçon;gautier.delaporte@centralesupelec.fr;member;Cheer Up;une association qui accompagne des jeunes de 15 à 25 ans malades du cancer et les aide à réaliser leur projet
+3122629;Gautier;DELAPORTE;garçon;gautier.delaporte@centralesupelec.fr;member;Barco;installation et exploitation de materiel video
+3530514;Helen;RABINEAU;F;helen.rabineau@centralesupelec.fr;member;BDA;l’asso qui s’occupe de tout ce qui est artistique sur le campus. Ça passe par l’organisation d’évènements tout au long de l’année, la gestion de Clubs artistes dans de nombreux domaines différents et la mise en place d’une billetterie en ligne permettant d’avoir des tarifs préférentiels dans des salles de spectacle parisiennes.
+3530514;Helen;RABINEAU;F;helen.rabineau@centralesupelec.fr;member;SBCS;Composé des deux associations (Sono et Barco), cette association...
+3530514;Helen;RABINEAU;F;helen.rabineau@centralesupelec.fr;member;Cheer Up;une association qui accompagne des jeunes de 15 à 25 ans malades du cancer et les aide à réaliser leur projet
+3349644;Carinne;BABARIT;F;carinne.babarit@centralesupelec.fr;member;BDE;représente les élèves de CentraleSupélec auprès de la direction et coordonne la vie associative sur le campus
+3349644;Carinne;BABARIT;F;carinne.babarit@centralesupelec.fr;member;SBCS;Composé des deux associations (Sono et Barco), cette association...
+3349644;Carinne;BABARIT;F;carinne.babarit@centralesupelec.fr;member;Cheer Up;une association qui accompagne des jeunes de 15 à 25 ans malades du cancer et les aide à réaliser leur projet
+4265828;Denis;HODE;fille;denis.hode@centralesupelec.fr;member;Junior CentraleSupelec (JCS);Junior Entreprise de CS, cette association d'étudiants a vocation économique et pédagogique mais a but non lucratif permet aux eleves de monter en compétences en leur proposant de réaliser des missions pour des clients
+4265828;Denis;HODE;fille;denis.hode@centralesupelec.fr;member;Sono;
+2665152;Marie Odile;REVEILLERE;W;marie odile.reveillere@centralesupelec.fr;member;Toucan Déchaîné;le journal de l'école, impartial et omniscient, il est au coeur de l'actualité et n'hésite pas à révéler les plus grands scandales
+4583291;Suzy;COSNARD;fille;suzy.cosnard@centralesupelec.fr;member;Sono;
+4583291;Suzy;COSNARD;fille;suzy.cosnard@centralesupelec.fr;member;Toucan Déchaîné;le journal de l'école, impartial et omniscient, il est au coeur de l'actualité et n'hésite pas à révéler les plus grands scandales
+4583291;Suzy;COSNARD;fille;suzy.cosnard@centralesupelec.fr;member;BDA;l’asso qui s’occupe de tout ce qui est artistique sur le campus. Ça passe par l’organisation d’évènements tout au long de l’année, la gestion de Clubs artistes dans de nombreux domaines différents et la mise en place d’une billetterie en ligne permettant d’avoir des tarifs préférentiels dans des salles de spectacle parisiennes.
+1663442;Théodore;BOMARD;garçon;theodore.bomard@centralesupelec.fr;member;FACS;Fédération d'associations de CS, cadre légal et financier d'une partie de l'associatif de CentraleSupélec, distribue des subventions et organise la coopération entre les associations
+1663442;Théodore;BOMARD;garçon;theodore.bomard@centralesupelec.fr;member;Band'à Joe;la fanfare, où tout le monde débute un instrument et qui organise des voyages dans la France et l'Europe pour jouer de la musique
+1663442;Théodore;BOMARD;garçon;theodore.bomard@centralesupelec.fr;member;BDE;représente les élèves de CentraleSupélec auprès de la direction et coordonne la vie associative sur le campus
+1372826;Guy-Marie;FREMY;H;guy-marie.fremy@centralesupelec.fr;member;Toucan Déchaîné;le journal de l'école, impartial et omniscient, il est au coeur de l'actualité et n'hésite pas à révéler les plus grands scandales
+1372826;Guy-Marie;FREMY;H;guy-marie.fremy@centralesupelec.fr;member;Barco;installation et exploitation de materiel video
+1372826;Guy-Marie;FREMY;H;guy-marie.fremy@centralesupelec.fr;member;SBCS;Composé des deux associations (Sono et Barco), cette association...
+400929;Vincenzo;EDIN;H;vincenzo.edin@centralesupelec.fr;member;BDA;l’asso qui s’occupe de tout ce qui est artistique sur le campus. Ça passe par l’organisation d’évènements tout au long de l’année, la gestion de Clubs artistes dans de nombreux domaines différents et la mise en place d’une billetterie en ligne permettant d’avoir des tarifs préférentiels dans des salles de spectacle parisiennes.
+400929;Vincenzo;EDIN;H;vincenzo.edin@centralesupelec.fr;member;Junior CentraleSupelec (JCS);Junior Entreprise de CS, cette association d'étudiants a vocation économique et pédagogique mais a but non lucratif permet aux eleves de monter en compétences en leur proposant de réaliser des missions pour des clients
+1942196;Constantin;LIZE;H;constantin.lize@centralesupelec.fr;member;Barco;installation et exploitation de materiel video
+1942196;Constantin;LIZE;H;constantin.lize@centralesupelec.fr;member;Band'à Joe;la fanfare, où tout le monde débute un instrument et qui organise des voyages dans la France et l'Europe pour jouer de la musique
+1942196;Constantin;LIZE;H;constantin.lize@centralesupelec.fr;member;BDA;l’asso qui s’occupe de tout ce qui est artistique sur le campus. Ça passe par l’organisation d’évènements tout au long de l’année, la gestion de Clubs artistes dans de nombreux domaines différents et la mise en place d’une billetterie en ligne permettant d’avoir des tarifs préférentiels dans des salles de spectacle parisiennes.
+6370815;Marie-Josee;FRADIN;W;marie-josee.fradin@centralesupelec.fr;member;SBCS;Composé des deux associations (Sono et Barco), cette association...
+6370815;Marie-Josee;FRADIN;W;marie-josee.fradin@centralesupelec.fr;member;Sono;
+6370815;Marie-Josee;FRADIN;W;marie-josee.fradin@centralesupelec.fr;member;FACS;Fédération d'associations de CS, cadre légal et financier d'une partie de l'associatif de CentraleSupélec, distribue des subventions et organise la coopération entre les associations
+5905613;Fany;LE ROY;W;fany.le roy@centralesupelec.fr;member;BDE;représente les élèves de CentraleSupélec auprès de la direction et coordonne la vie associative sur le campus
+5905613;Fany;LE ROY;W;fany.le roy@centralesupelec.fr;member;Toucan Déchaîné;le journal de l'école, impartial et omniscient, il est au coeur de l'actualité et n'hésite pas à révéler les plus grands scandales
+9060073;Gilbert;MARQUET;M;gilbert.marquet@centralesupelec.fr;member;Band'à Joe;la fanfare, où tout le monde débute un instrument et qui organise des voyages dans la France et l'Europe pour jouer de la musique
+9060073;Gilbert;MARQUET;M;gilbert.marquet@centralesupelec.fr;member;SBCS;Composé des deux associations (Sono et Barco), cette association...
+9060073;Gilbert;MARQUET;M;gilbert.marquet@centralesupelec.fr;member;Impact;
+2184742;Halima;CHALLIER;fille;halima.challier@centralesupelec.fr;member;BDE;représente les élèves de CentraleSupélec auprès de la direction et coordonne la vie associative sur le campus
+2184742;Halima;CHALLIER;fille;halima.challier@centralesupelec.fr;member;Band'à Joe;la fanfare, où tout le monde débute un instrument et qui organise des voyages dans la France et l'Europe pour jouer de la musique
+1562758;Pascaline;DUPONT;W;pascaline.dupont@centralesupelec.fr;member;BDA;l’asso qui s’occupe de tout ce qui est artistique sur le campus. Ça passe par l’organisation d’évènements tout au long de l’année, la gestion de Clubs artistes dans de nombreux domaines différents et la mise en place d’une billetterie en ligne permettant d’avoir des tarifs préférentiels dans des salles de spectacle parisiennes.
+1562758;Pascaline;DUPONT;W;pascaline.dupont@centralesupelec.fr;member;FACS;Fédération d'associations de CS, cadre légal et financier d'une partie de l'associatif de CentraleSupélec, distribue des subventions et organise la coopération entre les associations
+1562758;Pascaline;DUPONT;W;pascaline.dupont@centralesupelec.fr;member;Band'à Joe;la fanfare, où tout le monde débute un instrument et qui organise des voyages dans la France et l'Europe pour jouer de la musique
+3552069;Francisco;BIEMON;H;francisco.biemon@centralesupelec.fr;member;Toucan Déchaîné;le journal de l'école, impartial et omniscient, il est au coeur de l'actualité et n'hésite pas à révéler les plus grands scandales
+3552069;Francisco;BIEMON;H;francisco.biemon@centralesupelec.fr;member;BDE;représente les élèves de CentraleSupélec auprès de la direction et coordonne la vie associative sur le campus
+3552069;Francisco;BIEMON;H;francisco.biemon@centralesupelec.fr;member;BDA;l’asso qui s’occupe de tout ce qui est artistique sur le campus. Ça passe par l’organisation d’évènements tout au long de l’année, la gestion de Clubs artistes dans de nombreux domaines différents et la mise en place d’une billetterie en ligne permettant d’avoir des tarifs préférentiels dans des salles de spectacle parisiennes.
+6690661;Flavie;BEAUPERIN;fille;flavie.beauperin@centralesupelec.fr;member;Barco;installation et exploitation de materiel video
+6690661;Flavie;BEAUPERIN;fille;flavie.beauperin@centralesupelec.fr;member;Sono;
+6690661;Flavie;BEAUPERIN;fille;flavie.beauperin@centralesupelec.fr;member;BDA;l’asso qui s’occupe de tout ce qui est artistique sur le campus. Ça passe par l’organisation d’évènements tout au long de l’année, la gestion de Clubs artistes dans de nombreux domaines différents et la mise en place d’une billetterie en ligne permettant d’avoir des tarifs préférentiels dans des salles de spectacle parisiennes.
+6555383;Bruce;BEAUFRETON;garçon;bruce.beaufreton@centralesupelec.fr;member;BDA;l’asso qui s’occupe de tout ce qui est artistique sur le campus. Ça passe par l’organisation d’évènements tout au long de l’année, la gestion de Clubs artistes dans de nombreux domaines différents et la mise en place d’une billetterie en ligne permettant d’avoir des tarifs préférentiels dans des salles de spectacle parisiennes.
+3806289;Frédérique;MOREAU;W;frederique.moreau@centralesupelec.fr;member;FACS;Fédération d'associations de CS, cadre légal et financier d'une partie de l'associatif de CentraleSupélec, distribue des subventions et organise la coopération entre les associations
+3806289;Frédérique;MOREAU;W;frederique.moreau@centralesupelec.fr;member;BDA;l’asso qui s’occupe de tout ce qui est artistique sur le campus. Ça passe par l’organisation d’évènements tout au long de l’année, la gestion de Clubs artistes dans de nombreux domaines différents et la mise en place d’une billetterie en ligne permettant d’avoir des tarifs préférentiels dans des salles de spectacle parisiennes.
+3806289;Frédérique;MOREAU;W;frederique.moreau@centralesupelec.fr;member;Toucan Déchaîné;le journal de l'école, impartial et omniscient, il est au coeur de l'actualité et n'hésite pas à révéler les plus grands scandales
+5668218;Gildas;LIBAUD;garçon;gildas.libaud@centralesupelec.fr;member;Impact;
+5902875;Olivier;MAHE;M;olivier.mahe@centralesupelec.fr;member;BDA;l’asso qui s’occupe de tout ce qui est artistique sur le campus. Ça passe par l’organisation d’évènements tout au long de l’année, la gestion de Clubs artistes dans de nombreux domaines différents et la mise en place d’une billetterie en ligne permettant d’avoir des tarifs préférentiels dans des salles de spectacle parisiennes.
+7035795;Bénédicte;ETOURNEUX;garçon;benedicte.etourneux@centralesupelec.fr;member;Impact;
+7035795;Bénédicte;ETOURNEUX;garçon;benedicte.etourneux@centralesupelec.fr;member;SBCS;Composé des deux associations (Sono et Barco), cette association...
+7035795;Bénédicte;ETOURNEUX;garçon;benedicte.etourneux@centralesupelec.fr;member;Sono;
+1841688;Anne-Yvonne;BITEAU;W;anne-yvonne.biteau@centralesupelec.fr;member;Cheer Up;une association qui accompagne des jeunes de 15 à 25 ans malades du cancer et les aide à réaliser leur projet
+1841688;Anne-Yvonne;BITEAU;W;anne-yvonne.biteau@centralesupelec.fr;member;Band'à Joe;la fanfare, où tout le monde débute un instrument et qui organise des voyages dans la France et l'Europe pour jouer de la musique
+1841688;Anne-Yvonne;BITEAU;W;anne-yvonne.biteau@centralesupelec.fr;member;BDA;l’asso qui s’occupe de tout ce qui est artistique sur le campus. Ça passe par l’organisation d’évènements tout au long de l’année, la gestion de Clubs artistes dans de nombreux domaines différents et la mise en place d’une billetterie en ligne permettant d’avoir des tarifs préférentiels dans des salles de spectacle parisiennes.
+8354927;Jean-Georges;LEPAGE;H;jean-georges.lepage@centralesupelec.fr;member;Sono;
+8354927;Jean-Georges;LEPAGE;H;jean-georges.lepage@centralesupelec.fr;member;Band'à Joe;la fanfare, où tout le monde débute un instrument et qui organise des voyages dans la France et l'Europe pour jouer de la musique
+4434849;Gisèle;ANDRAULT;W;gisele.andrault@centralesupelec.fr;member;FACS;Fédération d'associations de CS, cadre légal et financier d'une partie de l'associatif de CentraleSupélec, distribue des subventions et organise la coopération entre les associations
+4434849;Gisèle;ANDRAULT;W;gisele.andrault@centralesupelec.fr;member;Barco;installation et exploitation de materiel video
+4434849;Gisèle;ANDRAULT;W;gisele.andrault@centralesupelec.fr;member;BDA;l’asso qui s’occupe de tout ce qui est artistique sur le campus. Ça passe par l’organisation d’évènements tout au long de l’année, la gestion de Clubs artistes dans de nombreux domaines différents et la mise en place d’une billetterie en ligne permettant d’avoir des tarifs préférentiels dans des salles de spectacle parisiennes.
+2506071;Anne-Claire;JADEAU;fille;anne-claire.jadeau@centralesupelec.fr;member;SBCS;Composé des deux associations (Sono et Barco), cette association...
+2506071;Anne-Claire;JADEAU;fille;anne-claire.jadeau@centralesupelec.fr;member;Junior CentraleSupelec (JCS);Junior Entreprise de CS, cette association d'étudiants a vocation économique et pédagogique mais a but non lucratif permet aux eleves de monter en compétences en leur proposant de réaliser des missions pour des clients
+2506071;Anne-Claire;JADEAU;fille;anne-claire.jadeau@centralesupelec.fr;member;Band'à Joe;la fanfare, où tout le monde débute un instrument et qui organise des voyages dans la France et l'Europe pour jouer de la musique
+6802351;Muguette;MONNIER;W;muguette.monnier@centralesupelec.fr;member;FACS;Fédération d'associations de CS, cadre légal et financier d'une partie de l'associatif de CentraleSupélec, distribue des subventions et organise la coopération entre les associations
+15560;Astride;MAROLLEAU;F;astride.marolleau@centralesupelec.fr;member;BDA;l’asso qui s’occupe de tout ce qui est artistique sur le campus. Ça passe par l’organisation d’évènements tout au long de l’année, la gestion de Clubs artistes dans de nombreux domaines différents et la mise en place d’une billetterie en ligne permettant d’avoir des tarifs préférentiels dans des salles de spectacle parisiennes.
+15560;Astride;MAROLLEAU;F;astride.marolleau@centralesupelec.fr;member;Barco;installation et exploitation de materiel video
+2892019;Fatima;PONTONNIER;W;fatima.pontonnier@centralesupelec.fr;member;Sono;
+2892019;Fatima;PONTONNIER;W;fatima.pontonnier@centralesupelec.fr;member;Toucan Déchaîné;le journal de l'école, impartial et omniscient, il est au coeur de l'actualité et n'hésite pas à révéler les plus grands scandales
+1663405;Lilianne;BUCHER;F;lilianne.bucher@centralesupelec.fr;member;BDE;représente les élèves de CentraleSupélec auprès de la direction et coordonne la vie associative sur le campus
+1663405;Lilianne;BUCHER;F;lilianne.bucher@centralesupelec.fr;member;Sono;
+1710322;Siegfried;GRANDIN;H;siegfried.grandin@centralesupelec.fr;member;BDA;l’asso qui s’occupe de tout ce qui est artistique sur le campus. Ça passe par l’organisation d’évènements tout au long de l’année, la gestion de Clubs artistes dans de nombreux domaines différents et la mise en place d’une billetterie en ligne permettant d’avoir des tarifs préférentiels dans des salles de spectacle parisiennes.
+2854528;Yannik;MANDIN;garçon;yannik.mandin@centralesupelec.fr;member;Junior CentraleSupelec (JCS);Junior Entreprise de CS, cette association d'étudiants a vocation économique et pédagogique mais a but non lucratif permet aux eleves de monter en compétences en leur proposant de réaliser des missions pour des clients
+3615984;Corinne;SAVARIT;H;corinne.savarit@centralesupelec.fr;member;Sono;
+7970054;Soraya;BRECHET;F;soraya.brechet@centralesupelec.fr;member;Cheer Up;une association qui accompagne des jeunes de 15 à 25 ans malades du cancer et les aide à réaliser leur projet
+1946951;Ladislas;LIBAUD;garçon;ladislas.libaud@centralesupelec.fr;member;FACS;Fédération d'associations de CS, cadre légal et financier d'une partie de l'associatif de CentraleSupélec, distribue des subventions et organise la coopération entre les associations
+1946951;Ladislas;LIBAUD;garçon;ladislas.libaud@centralesupelec.fr;member;SBCS;Composé des deux associations (Sono et Barco), cette association...
+1946951;Ladislas;LIBAUD;garçon;ladislas.libaud@centralesupelec.fr;member;Cheer Up;une association qui accompagne des jeunes de 15 à 25 ans malades du cancer et les aide à réaliser leur projet
+3228023;Gaël;BOUGET;garçon;gael.bouget@centralesupelec.fr;member;Barco;installation et exploitation de materiel video
+3228023;Gaël;BOUGET;garçon;gael.bouget@centralesupelec.fr;member;Impact;
+583497;Gaelle;MAHOT;fille;gaelle.mahot@centralesupelec.fr;member;FACS;Fédération d'associations de CS, cadre légal et financier d'une partie de l'associatif de CentraleSupélec, distribue des subventions et organise la coopération entre les associations
+8826644;Marguerite;RAPICAULT;F;marguerite.rapicault@centralesupelec.fr;member;Sono;
+1954763;Emile;RICHER;H;emile.richer@centralesupelec.fr;member;Band'à Joe;la fanfare, où tout le monde débute un instrument et qui organise des voyages dans la France et l'Europe pour jouer de la musique
+6804773;Aurélien;HOMER;garçon;aurelien.homer@centralesupelec.fr;member;Barco;installation et exploitation de materiel video
+6804773;Aurélien;HOMER;garçon;aurelien.homer@centralesupelec.fr;member;BDE;représente les élèves de CentraleSupélec auprès de la direction et coordonne la vie associative sur le campus
+6804773;Aurélien;HOMER;garçon;aurelien.homer@centralesupelec.fr;member;Sono;
+9365834;Marie-Charlotte;PRUD HOMME;W;marie-charlotte.prud homme@centralesupelec.fr;member;SBCS;Composé des deux associations (Sono et Barco), cette association...
+9365834;Marie-Charlotte;PRUD HOMME;W;marie-charlotte.prud homme@centralesupelec.fr;member;Barco;installation et exploitation de materiel video
+9365834;Marie-Charlotte;PRUD HOMME;W;marie-charlotte.prud homme@centralesupelec.fr;member;FACS;Fédération d'associations de CS, cadre légal et financier d'une partie de l'associatif de CentraleSupélec, distribue des subventions et organise la coopération entre les associations
+9179052;Georgette;SALLE;garçon;georgette.salle@centralesupelec.fr;member;BDE;représente les élèves de CentraleSupélec auprès de la direction et coordonne la vie associative sur le campus
+9179052;Georgette;SALLE;garçon;georgette.salle@centralesupelec.fr;member;SBCS;Composé des deux associations (Sono et Barco), cette association...
+7777355;Marie-Hélène;BENETEAU;garçon;marie-helene.beneteau@centralesupelec.fr;member;Cheer Up;une association qui accompagne des jeunes de 15 à 25 ans malades du cancer et les aide à réaliser leur projet
+7777355;Marie-Hélène;BENETEAU;garçon;marie-helene.beneteau@centralesupelec.fr;member;BDA;l’asso qui s’occupe de tout ce qui est artistique sur le campus. Ça passe par l’organisation d’évènements tout au long de l’année, la gestion de Clubs artistes dans de nombreux domaines différents et la mise en place d’une billetterie en ligne permettant d’avoir des tarifs préférentiels dans des salles de spectacle parisiennes.
+2385208;Bertille;MOUILLE;W;bertille.mouille@centralesupelec.fr;member;Barco;installation et exploitation de materiel video
+2385208;Bertille;MOUILLE;W;bertille.mouille@centralesupelec.fr;member;Junior CentraleSupelec (JCS);Junior Entreprise de CS, cette association d'étudiants a vocation économique et pédagogique mais a but non lucratif permet aux eleves de monter en compétences en leur proposant de réaliser des missions pour des clients
+2385208;Bertille;MOUILLE;W;bertille.mouille@centralesupelec.fr;member;Cheer Up;une association qui accompagne des jeunes de 15 à 25 ans malades du cancer et les aide à réaliser leur projet
+9710923;Yannick;VEAU;F;yannick.veau@centralesupelec.fr;member;SBCS;Composé des deux associations (Sono et Barco), cette association...
+9710923;Yannick;VEAU;F;yannick.veau@centralesupelec.fr;member;FACS;Fédération d'associations de CS, cadre légal et financier d'une partie de l'associatif de CentraleSupélec, distribue des subventions et organise la coopération entre les associations
+8024999;Pierre-Michel;LOISON;M;pierre-michel.loison@centralesupelec.fr;member;Cheer Up;une association qui accompagne des jeunes de 15 à 25 ans malades du cancer et les aide à réaliser leur projet
+912013;Bénédicte;CARRE;garçon;benedicte.carre@centralesupelec.fr;member;Band'à Joe;la fanfare, où tout le monde débute un instrument et qui organise des voyages dans la France et l'Europe pour jouer de la musique
+860488;Malou;PIFFARD;fille;malou.piffard@centralesupelec.fr;member;BDA;l’asso qui s’occupe de tout ce qui est artistique sur le campus. Ça passe par l’organisation d’évènements tout au long de l’année, la gestion de Clubs artistes dans de nombreux domaines différents et la mise en place d’une billetterie en ligne permettant d’avoir des tarifs préférentiels dans des salles de spectacle parisiennes.
+860488;Malou;PIFFARD;fille;malou.piffard@centralesupelec.fr;member;Cheer Up;une association qui accompagne des jeunes de 15 à 25 ans malades du cancer et les aide à réaliser leur projet
+860488;Malou;PIFFARD;fille;malou.piffard@centralesupelec.fr;member;Impact;
+1884033;Carine;REVEILLERE;F;carine.reveillere@centralesupelec.fr;member;Barco;installation et exploitation de materiel video
+1884033;Carine;REVEILLERE;F;carine.reveillere@centralesupelec.fr;member;BDA;l’asso qui s’occupe de tout ce qui est artistique sur le campus. Ça passe par l’organisation d’évènements tout au long de l’année, la gestion de Clubs artistes dans de nombreux domaines différents et la mise en place d’une billetterie en ligne permettant d’avoir des tarifs préférentiels dans des salles de spectacle parisiennes.
+8512871;Adeline;PIRONNEAU;W;adeline.pironneau@centralesupelec.fr;member;BDA;l’asso qui s’occupe de tout ce qui est artistique sur le campus. Ça passe par l’organisation d’évènements tout au long de l’année, la gestion de Clubs artistes dans de nombreux domaines différents et la mise en place d’une billetterie en ligne permettant d’avoir des tarifs préférentiels dans des salles de spectacle parisiennes.
+1737366;Alvaro;LAMBERT;garçon;alvaro.lambert@centralesupelec.fr;member;Cheer Up;une association qui accompagne des jeunes de 15 à 25 ans malades du cancer et les aide à réaliser leur projet
+1737366;Alvaro;LAMBERT;garçon;alvaro.lambert@centralesupelec.fr;member;Sono;
+7761100;Karl;BOUTET;H;karl.boutet@centralesupelec.fr;member;BDA;l’asso qui s’occupe de tout ce qui est artistique sur le campus. Ça passe par l’organisation d’évènements tout au long de l’année, la gestion de Clubs artistes dans de nombreux domaines différents et la mise en place d’une billetterie en ligne permettant d’avoir des tarifs préférentiels dans des salles de spectacle parisiennes.
+4651705;Raphaële;PROVOST;W;raphaele.provost@centralesupelec.fr;member;Junior CentraleSupelec (JCS);Junior Entreprise de CS, cette association d'étudiants a vocation économique et pédagogique mais a but non lucratif permet aux eleves de monter en compétences en leur proposant de réaliser des missions pour des clients
+4651705;Raphaële;PROVOST;W;raphaele.provost@centralesupelec.fr;member;FACS;Fédération d'associations de CS, cadre légal et financier d'une partie de l'associatif de CentraleSupélec, distribue des subventions et organise la coopération entre les associations
+5499953;Jim;GACHET;garçon;jim.gachet@centralesupelec.fr;member;Barco;installation et exploitation de materiel video
+5568177;Jean-Guillaume;BORDEAU;H;jean-guillaume.bordeau@centralesupelec.fr;member;Band'à Joe;la fanfare, où tout le monde débute un instrument et qui organise des voyages dans la France et l'Europe pour jouer de la musique
+3928901;Jluc;DESCHAMPS;H;jluc.deschamps@centralesupelec.fr;member;BDE;représente les élèves de CentraleSupélec auprès de la direction et coordonne la vie associative sur le campus
+3928901;Jluc;DESCHAMPS;H;jluc.deschamps@centralesupelec.fr;member;SBCS;Composé des deux associations (Sono et Barco), cette association...
+9341406;Joachim;PLUMEJEAU;H;joachim.plumejeau@centralesupelec.fr;member;Toucan Déchaîné;le journal de l'école, impartial et omniscient, il est au coeur de l'actualité et n'hésite pas à révéler les plus grands scandales
+9341406;Joachim;PLUMEJEAU;H;joachim.plumejeau@centralesupelec.fr;member;SBCS;Composé des deux associations (Sono et Barco), cette association...
+9341406;Joachim;PLUMEJEAU;H;joachim.plumejeau@centralesupelec.fr;member;Impact;
+1674550;Vivian;HACAULT;garçon;vivian.hacault@centralesupelec.fr;member;BDE;représente les élèves de CentraleSupélec auprès de la direction et coordonne la vie associative sur le campus
+9848855;Lysianne;BEILLARD;fille;lysianne.beillard@centralesupelec.fr;member;FACS;Fédération d'associations de CS, cadre légal et financier d'une partie de l'associatif de CentraleSupélec, distribue des subventions et organise la coopération entre les associations
+7894397;Jean Maurice;REIGNIER;M;jean maurice.reignier@centralesupelec.fr;member;BDE;représente les élèves de CentraleSupélec auprès de la direction et coordonne la vie associative sur le campus
+7894397;Jean Maurice;REIGNIER;M;jean maurice.reignier@centralesupelec.fr;member;BDA;l’asso qui s’occupe de tout ce qui est artistique sur le campus. Ça passe par l’organisation d’évènements tout au long de l’année, la gestion de Clubs artistes dans de nombreux domaines différents et la mise en place d’une billetterie en ligne permettant d’avoir des tarifs préférentiels dans des salles de spectacle parisiennes.
+7894397;Jean Maurice;REIGNIER;M;jean maurice.reignier@centralesupelec.fr;member;Barco;installation et exploitation de materiel video
+1347587;Josyane;CHEMINEAU;W;josyane.chemineau@centralesupelec.fr;member;Toucan Déchaîné;le journal de l'école, impartial et omniscient, il est au coeur de l'actualité et n'hésite pas à révéler les plus grands scandales
+1347587;Josyane;CHEMINEAU;W;josyane.chemineau@centralesupelec.fr;member;Junior CentraleSupelec (JCS);Junior Entreprise de CS, cette association d'étudiants a vocation économique et pédagogique mais a but non lucratif permet aux eleves de monter en compétences en leur proposant de réaliser des missions pour des clients
+1347587;Josyane;CHEMINEAU;W;josyane.chemineau@centralesupelec.fr;member;FACS;Fédération d'associations de CS, cadre légal et financier d'une partie de l'associatif de CentraleSupélec, distribue des subventions et organise la coopération entre les associations
+1143837;Sergio;BOURON;garçon;sergio.bouron@centralesupelec.fr;member;Sono;
+1143837;Sergio;BOURON;garçon;sergio.bouron@centralesupelec.fr;member;BDE;représente les élèves de CentraleSupélec auprès de la direction et coordonne la vie associative sur le campus
+492491;Stéphan;OUVRARD;garçon;stephan.ouvrard@centralesupelec.fr;member;Barco;installation et exploitation de materiel video
+1003065;Jean-Frédéric;DAVIAUD;M;jean-frederic.daviaud@centralesupelec.fr;member;Sono;
+3121003;Marie Line;DESGRE;fille;marie line.desgre@centralesupelec.fr;member;BDE;représente les élèves de CentraleSupélec auprès de la direction et coordonne la vie associative sur le campus
+3121003;Marie Line;DESGRE;fille;marie line.desgre@centralesupelec.fr;member;Junior CentraleSupelec (JCS);Junior Entreprise de CS, cette association d'étudiants a vocation économique et pédagogique mais a but non lucratif permet aux eleves de monter en compétences en leur proposant de réaliser des missions pour des clients
+6723978;Jean Bernard;BLANCHET;M;jean bernard.blanchet@centralesupelec.fr;member;Toucan Déchaîné;le journal de l'école, impartial et omniscient, il est au coeur de l'actualité et n'hésite pas à révéler les plus grands scandales
+6723978;Jean Bernard;BLANCHET;M;jean bernard.blanchet@centralesupelec.fr;member;Sono;
+4167770;Annonciade;GODIN;W;annonciade.godin@centralesupelec.fr;member;Band'à Joe;la fanfare, où tout le monde débute un instrument et qui organise des voyages dans la France et l'Europe pour jouer de la musique
+5564971;Rachida;COUVREUX;F;rachida.couvreux@centralesupelec.fr;member;Junior CentraleSupelec (JCS);Junior Entreprise de CS, cette association d'étudiants a vocation économique et pédagogique mais a but non lucratif permet aux eleves de monter en compétences en leur proposant de réaliser des missions pour des clients
+36833;Octave;HIVERT;M;octave.hivert@centralesupelec.fr;member;BDE;représente les élèves de CentraleSupélec auprès de la direction et coordonne la vie associative sur le campus
+36833;Octave;HIVERT;M;octave.hivert@centralesupelec.fr;member;FACS;Fédération d'associations de CS, cadre légal et financier d'une partie de l'associatif de CentraleSupélec, distribue des subventions et organise la coopération entre les associations
+36833;Octave;HIVERT;M;octave.hivert@centralesupelec.fr;member;SBCS;Composé des deux associations (Sono et Barco), cette association...
+7908933;Stéphane;BAUDOUIN;M;stephane.baudouin@centralesupelec.fr;member;Impact;
+7908933;Stéphane;BAUDOUIN;M;stephane.baudouin@centralesupelec.fr;member;Junior CentraleSupelec (JCS);Junior Entreprise de CS, cette association d'étudiants a vocation économique et pédagogique mais a but non lucratif permet aux eleves de monter en compétences en leur proposant de réaliser des missions pour des clients
+9790480;Nordine;GRASSET;M;nordine.grasset@centralesupelec.fr;member;BDA;l’asso qui s’occupe de tout ce qui est artistique sur le campus. Ça passe par l’organisation d’évènements tout au long de l’année, la gestion de Clubs artistes dans de nombreux domaines différents et la mise en place d’une billetterie en ligne permettant d’avoir des tarifs préférentiels dans des salles de spectacle parisiennes.
+40525;Renee;HOUDIN;W;renee.houdin@centralesupelec.fr;member;FACS;Fédération d'associations de CS, cadre légal et financier d'une partie de l'associatif de CentraleSupélec, distribue des subventions et organise la coopération entre les associations
+979747;Suzanne;POUPELIN;fille;suzanne.poupelin@centralesupelec.fr;member;FACS;Fédération d'associations de CS, cadre légal et financier d'une partie de l'associatif de CentraleSupélec, distribue des subventions et organise la coopération entre les associations
+979747;Suzanne;POUPELIN;fille;suzanne.poupelin@centralesupelec.fr;member;Sono;
+7298401;Gwenaelle;LAVENIER;F;gwenaelle.lavenier@centralesupelec.fr;member;Cheer Up;une association qui accompagne des jeunes de 15 à 25 ans malades du cancer et les aide à réaliser leur projet
+7298401;Gwenaelle;LAVENIER;F;gwenaelle.lavenier@centralesupelec.fr;member;Toucan Déchaîné;le journal de l'école, impartial et omniscient, il est au coeur de l'actualité et n'hésite pas à révéler les plus grands scandales
+127028;Gilda;MENET;fille;gilda.menet@centralesupelec.fr;member;Band'à Joe;la fanfare, où tout le monde débute un instrument et qui organise des voyages dans la France et l'Europe pour jouer de la musique
+127028;Gilda;MENET;fille;gilda.menet@centralesupelec.fr;member;Sono;
+127028;Gilda;MENET;fille;gilda.menet@centralesupelec.fr;member;Impact;
+3859477;Narcisse;DALIFARD;M;narcisse.dalifard@centralesupelec.fr;member;Impact;
+7875661;Luciano;CHAILLOU;H;luciano.chaillou@centralesupelec.fr;member;Toucan Déchaîné;le journal de l'école, impartial et omniscient, il est au coeur de l'actualité et n'hésite pas à révéler les plus grands scandales
+2400708;Anne-Yvonne;DEHOUX;F;anne-yvonne.dehoux@centralesupelec.fr;member;FACS;Fédération d'associations de CS, cadre légal et financier d'une partie de l'associatif de CentraleSupélec, distribue des subventions et organise la coopération entre les associations
+4238144;Jean Christophe;CERIZIER;H;jean christophe.cerizier@centralesupelec.fr;member;FACS;Fédération d'associations de CS, cadre légal et financier d'une partie de l'associatif de CentraleSupélec, distribue des subventions et organise la coopération entre les associations
+4238144;Jean Christophe;CERIZIER;H;jean christophe.cerizier@centralesupelec.fr;member;Cheer Up;une association qui accompagne des jeunes de 15 à 25 ans malades du cancer et les aide à réaliser leur projet
+4238144;Jean Christophe;CERIZIER;H;jean christophe.cerizier@centralesupelec.fr;member;Junior CentraleSupelec (JCS);Junior Entreprise de CS, cette association d'étudiants a vocation économique et pédagogique mais a but non lucratif permet aux eleves de monter en compétences en leur proposant de réaliser des missions pour des clients
+276573;Marie-Noelle;AUMOND;W;marie-noelle.aumond@centralesupelec.fr;member;Band'à Joe;la fanfare, où tout le monde débute un instrument et qui organise des voyages dans la France et l'Europe pour jouer de la musique
+276573;Marie-Noelle;AUMOND;W;marie-noelle.aumond@centralesupelec.fr;member;Impact;
+276573;Marie-Noelle;AUMOND;W;marie-noelle.aumond@centralesupelec.fr;member;SBCS;Composé des deux associations (Sono et Barco), cette association...
+5884030;Jean Pierre;JEANNEAU;M;jean pierre.jeanneau@centralesupelec.fr;member;Impact;
+5884030;Jean Pierre;JEANNEAU;M;jean pierre.jeanneau@centralesupelec.fr;member;BDE;représente les élèves de CentraleSupélec auprès de la direction et coordonne la vie associative sur le campus
+7476598;Baptiste;LEFEVRE;H;baptiste.lefevre@centralesupelec.fr;member;Sono;
+7062366;Jeremie;RICOU;H;jeremie.ricou@centralesupelec.fr;member;BDA;l’asso qui s’occupe de tout ce qui est artistique sur le campus. Ça passe par l’organisation d’évènements tout au long de l’année, la gestion de Clubs artistes dans de nombreux domaines différents et la mise en place d’une billetterie en ligne permettant d’avoir des tarifs préférentiels dans des salles de spectacle parisiennes.
+3662800;Ghislène;ALLAIRE;fille;ghislene.allaire@centralesupelec.fr;member;SBCS;Composé des deux associations (Sono et Barco), cette association...
+3662800;Ghislène;ALLAIRE;fille;ghislene.allaire@centralesupelec.fr;member;Sono;
+9515545;Claudy;GABORY;F;claudy.gabory@centralesupelec.fr;member;Toucan Déchaîné;le journal de l'école, impartial et omniscient, il est au coeur de l'actualité et n'hésite pas à révéler les plus grands scandales
+9515545;Claudy;GABORY;F;claudy.gabory@centralesupelec.fr;member;BDA;l’asso qui s’occupe de tout ce qui est artistique sur le campus. Ça passe par l’organisation d’évènements tout au long de l’année, la gestion de Clubs artistes dans de nombreux domaines différents et la mise en place d’une billetterie en ligne permettant d’avoir des tarifs préférentiels dans des salles de spectacle parisiennes.
+9515545;Claudy;GABORY;F;claudy.gabory@centralesupelec.fr;member;Impact;
+355898;Patricia;GODICHEAU;M;patricia.godicheau@centralesupelec.fr;member;Band'à Joe;la fanfare, où tout le monde débute un instrument et qui organise des voyages dans la France et l'Europe pour jouer de la musique
+3355127;Patric;REVAULT;M;patric.revault@centralesupelec.fr;member;Band'à Joe;la fanfare, où tout le monde débute un instrument et qui organise des voyages dans la France et l'Europe pour jouer de la musique
+3355127;Patric;REVAULT;M;patric.revault@centralesupelec.fr;member;Toucan Déchaîné;le journal de l'école, impartial et omniscient, il est au coeur de l'actualité et n'hésite pas à révéler les plus grands scandales
+7601491;Vincenza;HOUDAYER;F;vincenza.houdayer@centralesupelec.fr;member;Band'à Joe;la fanfare, où tout le monde débute un instrument et qui organise des voyages dans la France et l'Europe pour jouer de la musique
+7601491;Vincenza;HOUDAYER;F;vincenza.houdayer@centralesupelec.fr;member;Impact;
+7601491;Vincenza;HOUDAYER;F;vincenza.houdayer@centralesupelec.fr;member;FACS;Fédération d'associations de CS, cadre légal et financier d'une partie de l'associatif de CentraleSupélec, distribue des subventions et organise la coopération entre les associations
+9777115;Solange;CHEVALIER;F;solange.chevalier@centralesupelec.fr;member;Toucan Déchaîné;le journal de l'école, impartial et omniscient, il est au coeur de l'actualité et n'hésite pas à révéler les plus grands scandales
+9777115;Solange;CHEVALIER;F;solange.chevalier@centralesupelec.fr;member;Barco;installation et exploitation de materiel video
+8747513;Jean André;BELOUIN;garçon;jean andre.belouin@centralesupelec.fr;member;BDE;représente les élèves de CentraleSupélec auprès de la direction et coordonne la vie associative sur le campus
+8747513;Jean André;BELOUIN;garçon;jean andre.belouin@centralesupelec.fr;member;Barco;installation et exploitation de materiel video
+1644484;Vanessa;OGEREAU;W;vanessa.ogereau@centralesupelec.fr;member;Impact;
+1647802;Marianne;BESSON;W;marianne.besson@centralesupelec.fr;member;BDA;l’asso qui s’occupe de tout ce qui est artistique sur le campus. Ça passe par l’organisation d’évènements tout au long de l’année, la gestion de Clubs artistes dans de nombreux domaines différents et la mise en place d’une billetterie en ligne permettant d’avoir des tarifs préférentiels dans des salles de spectacle parisiennes.
+5234188;Paul-Henri;LAILLER;garçon;paul-henri.lailler@centralesupelec.fr;member;Band'à Joe;la fanfare, où tout le monde débute un instrument et qui organise des voyages dans la France et l'Europe pour jouer de la musique
+5234188;Paul-Henri;LAILLER;garçon;paul-henri.lailler@centralesupelec.fr;member;Barco;installation et exploitation de materiel video
+4816761;Mickaël;BROUSSEAU;H;mickael.brousseau@centralesupelec.fr;member;Sono;
+5964769;Joseph;LAIGLE;W;joseph.laigle@centralesupelec.fr;member;Impact;
+5964769;Joseph;LAIGLE;W;joseph.laigle@centralesupelec.fr;member;Toucan Déchaîné;le journal de l'école, impartial et omniscient, il est au coeur de l'actualité et n'hésite pas à révéler les plus grands scandales
+5107261;Gina;BOLTEAU;fille;gina.bolteau@centralesupelec.fr;member;Impact;
+5107261;Gina;BOLTEAU;fille;gina.bolteau@centralesupelec.fr;member;Junior CentraleSupelec (JCS);Junior Entreprise de CS, cette association d'étudiants a vocation économique et pédagogique mais a but non lucratif permet aux eleves de monter en compétences en leur proposant de réaliser des missions pour des clients
+5107261;Gina;BOLTEAU;fille;gina.bolteau@centralesupelec.fr;member;SBCS;Composé des deux associations (Sono et Barco), cette association...
+6787143;Steve;BONTEMPS;M;steve.bontemps@centralesupelec.fr;member;SBCS;Composé des deux associations (Sono et Barco), cette association...
+906048;Hélène;LEMARCHAND;fille;helene.lemarchand@centralesupelec.fr;member;Cheer Up;une association qui accompagne des jeunes de 15 à 25 ans malades du cancer et les aide à réaliser leur projet
+4196210;Michelle;LEVEQUE;garçon;michelle.leveque@centralesupelec.fr;member;Toucan Déchaîné;le journal de l'école, impartial et omniscient, il est au coeur de l'actualité et n'hésite pas à révéler les plus grands scandales
+4196210;Michelle;LEVEQUE;garçon;michelle.leveque@centralesupelec.fr;member;BDA;l’asso qui s’occupe de tout ce qui est artistique sur le campus. Ça passe par l’organisation d’évènements tout au long de l’année, la gestion de Clubs artistes dans de nombreux domaines différents et la mise en place d’une billetterie en ligne permettant d’avoir des tarifs préférentiels dans des salles de spectacle parisiennes.
+7370710;Jean-Loup;RORTEAU;garçon;jean-loup.rorteau@centralesupelec.fr;member;Band'à Joe;la fanfare, où tout le monde débute un instrument et qui organise des voyages dans la France et l'Europe pour jouer de la musique
+7528141;Mary;SALE;W;mary.sale@centralesupelec.fr;member;Junior CentraleSupelec (JCS);Junior Entreprise de CS, cette association d'étudiants a vocation économique et pédagogique mais a but non lucratif permet aux eleves de monter en compétences en leur proposant de réaliser des missions pour des clients
+7528141;Mary;SALE;W;mary.sale@centralesupelec.fr;member;Sono;
+3841145;Anne Sophie;BARDET;F;anne sophie.bardet@centralesupelec.fr;member;Band'à Joe;la fanfare, où tout le monde débute un instrument et qui organise des voyages dans la France et l'Europe pour jouer de la musique
+3841145;Anne Sophie;BARDET;F;anne sophie.bardet@centralesupelec.fr;member;Junior CentraleSupelec (JCS);Junior Entreprise de CS, cette association d'étudiants a vocation économique et pédagogique mais a but non lucratif permet aux eleves de monter en compétences en leur proposant de réaliser des missions pour des clients
+4219309;Rebecca;PELTIER;F;rebecca.peltier@centralesupelec.fr;member;Barco;installation et exploitation de materiel video
+3528;Ericka;GUYOMARD;W;ericka.guyomard@centralesupelec.fr;member;FACS;Fédération d'associations de CS, cadre légal et financier d'une partie de l'associatif de CentraleSupélec, distribue des subventions et organise la coopération entre les associations
+3528;Ericka;GUYOMARD;W;ericka.guyomard@centralesupelec.fr;member;Band'à Joe;la fanfare, où tout le monde débute un instrument et qui organise des voyages dans la France et l'Europe pour jouer de la musique
+3528;Ericka;GUYOMARD;W;ericka.guyomard@centralesupelec.fr;member;Cheer Up;une association qui accompagne des jeunes de 15 à 25 ans malades du cancer et les aide à réaliser leur projet
+9030568;Janick;VINCONNEAU;garçon;janick.vinconneau@centralesupelec.fr;member;SBCS;Composé des deux associations (Sono et Barco), cette association...
+9030568;Janick;VINCONNEAU;garçon;janick.vinconneau@centralesupelec.fr;member;Sono;
+7808312;Valentine;GESLIN;F;valentine.geslin@centralesupelec.fr;member;Sono;
+7808312;Valentine;GESLIN;F;valentine.geslin@centralesupelec.fr;member;SBCS;Composé des deux associations (Sono et Barco), cette association...
+9098198;Abdallah;FOUIN;garçon;abdallah.fouin@centralesupelec.fr;member;Junior CentraleSupelec (JCS);Junior Entreprise de CS, cette association d'étudiants a vocation économique et pédagogique mais a but non lucratif permet aux eleves de monter en compétences en leur proposant de réaliser des missions pour des clients
+9098198;Abdallah;FOUIN;garçon;abdallah.fouin@centralesupelec.fr;member;BDE;représente les élèves de CentraleSupélec auprès de la direction et coordonne la vie associative sur le campus
+9098198;Abdallah;FOUIN;garçon;abdallah.fouin@centralesupelec.fr;member;Toucan Déchaîné;le journal de l'école, impartial et omniscient, il est au coeur de l'actualité et n'hésite pas à révéler les plus grands scandales
+5179638;Marine;PERON;W;marine.peron@centralesupelec.fr;member;FACS;Fédération d'associations de CS, cadre légal et financier d'une partie de l'associatif de CentraleSupélec, distribue des subventions et organise la coopération entre les associations
+5179638;Marine;PERON;W;marine.peron@centralesupelec.fr;member;SBCS;Composé des deux associations (Sono et Barco), cette association...
+5438886;Jamila;DALIBON;F;jamila.dalibon@centralesupelec.fr;member;Barco;installation et exploitation de materiel video
+5438886;Jamila;DALIBON;F;jamila.dalibon@centralesupelec.fr;member;Band'à Joe;la fanfare, où tout le monde débute un instrument et qui organise des voyages dans la France et l'Europe pour jouer de la musique
+6971046;Lydie;GUEMARD;H;lydie.guemard@centralesupelec.fr;member;Sono;
+6971046;Lydie;GUEMARD;H;lydie.guemard@centralesupelec.fr;member;Band'à Joe;la fanfare, où tout le monde débute un instrument et qui organise des voyages dans la France et l'Europe pour jouer de la musique
+6971046;Lydie;GUEMARD;H;lydie.guemard@centralesupelec.fr;member;Impact;
+1079682;Remy;HOUDU;H;remy.houdu@centralesupelec.fr;member;Barco;installation et exploitation de materiel video
+1079682;Remy;HOUDU;H;remy.houdu@centralesupelec.fr;member;FACS;Fédération d'associations de CS, cadre légal et financier d'une partie de l'associatif de CentraleSupélec, distribue des subventions et organise la coopération entre les associations
+1079682;Remy;HOUDU;H;remy.houdu@centralesupelec.fr;member;Sono;
+8725005;Rolland;LIEVRE;H;rolland.lievre@centralesupelec.fr;member;Cheer Up;une association qui accompagne des jeunes de 15 à 25 ans malades du cancer et les aide à réaliser leur projet
+8725005;Rolland;LIEVRE;H;rolland.lievre@centralesupelec.fr;member;SBCS;Composé des deux associations (Sono et Barco), cette association...
+8725005;Rolland;LIEVRE;H;rolland.lievre@centralesupelec.fr;member;FACS;Fédération d'associations de CS, cadre légal et financier d'une partie de l'associatif de CentraleSupélec, distribue des subventions et organise la coopération entre les associations
+3509867;Jeannine;PAILLAT;W;jeannine.paillat@centralesupelec.fr;member;FACS;Fédération d'associations de CS, cadre légal et financier d'une partie de l'associatif de CentraleSupélec, distribue des subventions et organise la coopération entre les associations
+3509867;Jeannine;PAILLAT;W;jeannine.paillat@centralesupelec.fr;member;Sono;
+3509867;Jeannine;PAILLAT;W;jeannine.paillat@centralesupelec.fr;member;SBCS;Composé des deux associations (Sono et Barco), cette association...
+6396437;Alex;SAULNIER;H;alex.saulnier@centralesupelec.fr;member;Sono;
+6396437;Alex;SAULNIER;H;alex.saulnier@centralesupelec.fr;member;BDA;l’asso qui s’occupe de tout ce qui est artistique sur le campus. Ça passe par l’organisation d’évènements tout au long de l’année, la gestion de Clubs artistes dans de nombreux domaines différents et la mise en place d’une billetterie en ligne permettant d’avoir des tarifs préférentiels dans des salles de spectacle parisiennes.
+6303380;Hamed;FOUGERE;H;hamed.fougere@centralesupelec.fr;member;Barco;installation et exploitation de materiel video
+6303380;Hamed;FOUGERE;H;hamed.fougere@centralesupelec.fr;member;BDE;représente les élèves de CentraleSupélec auprès de la direction et coordonne la vie associative sur le campus
+6303380;Hamed;FOUGERE;H;hamed.fougere@centralesupelec.fr;member;FACS;Fédération d'associations de CS, cadre légal et financier d'une partie de l'associatif de CentraleSupélec, distribue des subventions et organise la coopération entre les associations
+1866526;Jean-Raymond;COIGNARD;garçon;jean-raymond.coignard@centralesupelec.fr;member;Barco;installation et exploitation de materiel video
+1866526;Jean-Raymond;COIGNARD;garçon;jean-raymond.coignard@centralesupelec.fr;member;Impact;
+171568;Reynald;HOGNON;garçon;reynald.hognon@centralesupelec.fr;member;Band'à Joe;la fanfare, où tout le monde débute un instrument et qui organise des voyages dans la France et l'Europe pour jouer de la musique
+2046596;Anabelle;BOUYER;F;anabelle.bouyer@centralesupelec.fr;member;Sono;
+2046596;Anabelle;BOUYER;F;anabelle.bouyer@centralesupelec.fr;member;Toucan Déchaîné;le journal de l'école, impartial et omniscient, il est au coeur de l'actualité et n'hésite pas à révéler les plus grands scandales
+2046596;Anabelle;BOUYER;F;anabelle.bouyer@centralesupelec.fr;member;Cheer Up;une association qui accompagne des jeunes de 15 à 25 ans malades du cancer et les aide à réaliser leur projet
+5132626;Joao;GOURE;garçon;joao.goure@centralesupelec.fr;member;Sono;
+5132626;Joao;GOURE;garçon;joao.goure@centralesupelec.fr;member;Junior CentraleSupelec (JCS);Junior Entreprise de CS, cette association d'étudiants a vocation économique et pédagogique mais a but non lucratif permet aux eleves de monter en compétences en leur proposant de réaliser des missions pour des clients
+856194;Jean-Yvon;LEVEQUE;garçon;jean-yvon.leveque@centralesupelec.fr;member;SBCS;Composé des deux associations (Sono et Barco), cette association...
+6768249;Dolores;BOURDEAU;F;dolores.bourdeau@centralesupelec.fr;member;Barco;installation et exploitation de materiel video
+6768249;Dolores;BOURDEAU;F;dolores.bourdeau@centralesupelec.fr;member;Toucan Déchaîné;le journal de l'école, impartial et omniscient, il est au coeur de l'actualité et n'hésite pas à révéler les plus grands scandales
+5208398;Mikaël;GUIGNON;H;mikael.guignon@centralesupelec.fr;member;Toucan Déchaîné;le journal de l'école, impartial et omniscient, il est au coeur de l'actualité et n'hésite pas à révéler les plus grands scandales
+5208398;Mikaël;GUIGNON;H;mikael.guignon@centralesupelec.fr;member;Band'à Joe;la fanfare, où tout le monde débute un instrument et qui organise des voyages dans la France et l'Europe pour jouer de la musique
+5208398;Mikaël;GUIGNON;H;mikael.guignon@centralesupelec.fr;member;BDE;représente les élèves de CentraleSupélec auprès de la direction et coordonne la vie associative sur le campus
+1468941;Najat;BERTHAUD;F;najat.berthaud@centralesupelec.fr;member;Barco;installation et exploitation de materiel video
+1468941;Najat;BERTHAUD;F;najat.berthaud@centralesupelec.fr;member;Toucan Déchaîné;le journal de l'école, impartial et omniscient, il est au coeur de l'actualité et n'hésite pas à révéler les plus grands scandales
+1468941;Najat;BERTHAUD;F;najat.berthaud@centralesupelec.fr;member;SBCS;Composé des deux associations (Sono et Barco), cette association...
+2299333;Alix;THIERY;garçon;alix.thiery@centralesupelec.fr;member;Impact;
+2299333;Alix;THIERY;garçon;alix.thiery@centralesupelec.fr;member;Sono;
+2116067;Yoann;GAUDICHEAU;M;yoann.gaudicheau@centralesupelec.fr;member;BDE;représente les élèves de CentraleSupélec auprès de la direction et coordonne la vie associative sur le campus
+2116067;Yoann;GAUDICHEAU;M;yoann.gaudicheau@centralesupelec.fr;member;BDA;l’asso qui s’occupe de tout ce qui est artistique sur le campus. Ça passe par l’organisation d’évènements tout au long de l’année, la gestion de Clubs artistes dans de nombreux domaines différents et la mise en place d’une billetterie en ligne permettant d’avoir des tarifs préférentiels dans des salles de spectacle parisiennes.
+2116067;Yoann;GAUDICHEAU;M;yoann.gaudicheau@centralesupelec.fr;member;Toucan Déchaîné;le journal de l'école, impartial et omniscient, il est au coeur de l'actualité et n'hésite pas à révéler les plus grands scandales
+7048766;François-Marie;RABOIN;M;francois-marie.raboin@centralesupelec.fr;member;BDA;l’asso qui s’occupe de tout ce qui est artistique sur le campus. Ça passe par l’organisation d’évènements tout au long de l’année, la gestion de Clubs artistes dans de nombreux domaines différents et la mise en place d’une billetterie en ligne permettant d’avoir des tarifs préférentiels dans des salles de spectacle parisiennes.
+7048766;François-Marie;RABOIN;M;francois-marie.raboin@centralesupelec.fr;member;Impact;
+7048766;François-Marie;RABOIN;M;francois-marie.raboin@centralesupelec.fr;member;FACS;Fédération d'associations de CS, cadre légal et financier d'une partie de l'associatif de CentraleSupélec, distribue des subventions et organise la coopération entre les associations
+4097932;Cathy;JUBEAU;F;cathy.jubeau@centralesupelec.fr;member;Barco;installation et exploitation de materiel video
+4097932;Cathy;JUBEAU;F;cathy.jubeau@centralesupelec.fr;member;FACS;Fédération d'associations de CS, cadre légal et financier d'une partie de l'associatif de CentraleSupélec, distribue des subventions et organise la coopération entre les associations
+4097932;Cathy;JUBEAU;F;cathy.jubeau@centralesupelec.fr;member;Toucan Déchaîné;le journal de l'école, impartial et omniscient, il est au coeur de l'actualité et n'hésite pas à révéler les plus grands scandales
+2906447;Hélène;LAILLER;H;helene.lailler@centralesupelec.fr;member;SBCS;Composé des deux associations (Sono et Barco), cette association...
+8264536;Jerome;METIVIER;H;jerome.metivier@centralesupelec.fr;member;Barco;installation et exploitation de materiel video
+8264536;Jerome;METIVIER;H;jerome.metivier@centralesupelec.fr;member;Toucan Déchaîné;le journal de l'école, impartial et omniscient, il est au coeur de l'actualité et n'hésite pas à révéler les plus grands scandales
+8264536;Jerome;METIVIER;H;jerome.metivier@centralesupelec.fr;member;FACS;Fédération d'associations de CS, cadre légal et financier d'une partie de l'associatif de CentraleSupélec, distribue des subventions et organise la coopération entre les associations
+3619521;Théophile;PROUTIERE;H;theophile.proutiere@centralesupelec.fr;member;SBCS;Composé des deux associations (Sono et Barco), cette association...
+3619521;Théophile;PROUTIERE;H;theophile.proutiere@centralesupelec.fr;member;BDA;l’asso qui s’occupe de tout ce qui est artistique sur le campus. Ça passe par l’organisation d’évènements tout au long de l’année, la gestion de Clubs artistes dans de nombreux domaines différents et la mise en place d’une billetterie en ligne permettant d’avoir des tarifs préférentiels dans des salles de spectacle parisiennes.
+1405566;Saliha;DELHOMMEAU;W;saliha.delhommeau@centralesupelec.fr;member;Junior CentraleSupelec (JCS);Junior Entreprise de CS, cette association d'étudiants a vocation économique et pédagogique mais a but non lucratif permet aux eleves de monter en compétences en leur proposant de réaliser des missions pour des clients
+9645399;Véronique;BOUHIRON;F;veronique.bouhiron@centralesupelec.fr;member;SBCS;Composé des deux associations (Sono et Barco), cette association...
+9645399;Véronique;BOUHIRON;F;veronique.bouhiron@centralesupelec.fr;member;Band'à Joe;la fanfare, où tout le monde débute un instrument et qui organise des voyages dans la France et l'Europe pour jouer de la musique
+9645399;Véronique;BOUHIRON;F;veronique.bouhiron@centralesupelec.fr;member;Sono;
+6439314;Suzanne;GASTE;F;suzanne.gaste@centralesupelec.fr;member;Toucan Déchaîné;le journal de l'école, impartial et omniscient, il est au coeur de l'actualité et n'hésite pas à révéler les plus grands scandales
+5548333;Vivianne;RABOUIN;W;vivianne.rabouin@centralesupelec.fr;member;BDE;représente les élèves de CentraleSupélec auprès de la direction et coordonne la vie associative sur le campus
+5548333;Vivianne;RABOUIN;W;vivianne.rabouin@centralesupelec.fr;member;Toucan Déchaîné;le journal de l'école, impartial et omniscient, il est au coeur de l'actualité et n'hésite pas à révéler les plus grands scandales
+8851393;Annie;ROULLIER;fille;annie.roullier@centralesupelec.fr;member;SBCS;Composé des deux associations (Sono et Barco), cette association...
+8851393;Annie;ROULLIER;fille;annie.roullier@centralesupelec.fr;member;Cheer Up;une association qui accompagne des jeunes de 15 à 25 ans malades du cancer et les aide à réaliser leur projet
+549362;Joanny;SUBILEAU;H;joanny.subileau@centralesupelec.fr;member;Cheer Up;une association qui accompagne des jeunes de 15 à 25 ans malades du cancer et les aide à réaliser leur projet
+549362;Joanny;SUBILEAU;H;joanny.subileau@centralesupelec.fr;member;Barco;installation et exploitation de materiel video
+549362;Joanny;SUBILEAU;H;joanny.subileau@centralesupelec.fr;member;Band'à Joe;la fanfare, où tout le monde débute un instrument et qui organise des voyages dans la France et l'Europe pour jouer de la musique
+4638846;Jean Baptiste;ROINARD;garçon;jean baptiste.roinard@centralesupelec.fr;member;Band'à Joe;la fanfare, où tout le monde débute un instrument et qui organise des voyages dans la France et l'Europe pour jouer de la musique
+2838280;Philomène;BIGEARD;fille;philomene.bigeard@centralesupelec.fr;member;Band'à Joe;la fanfare, où tout le monde débute un instrument et qui organise des voyages dans la France et l'Europe pour jouer de la musique
+6316333;Nancy;HULLIN;fille;nancy.hullin@centralesupelec.fr;member;BDA;l’asso qui s’occupe de tout ce qui est artistique sur le campus. Ça passe par l’organisation d’évènements tout au long de l’année, la gestion de Clubs artistes dans de nombreux domaines différents et la mise en place d’une billetterie en ligne permettant d’avoir des tarifs préférentiels dans des salles de spectacle parisiennes.
+6316333;Nancy;HULLIN;fille;nancy.hullin@centralesupelec.fr;member;FACS;Fédération d'associations de CS, cadre légal et financier d'une partie de l'associatif de CentraleSupélec, distribue des subventions et organise la coopération entre les associations
+7278656;Myriam;PERCEVAULT;fille;myriam.percevault@centralesupelec.fr;member;BDE;représente les élèves de CentraleSupélec auprès de la direction et coordonne la vie associative sur le campus
+6000154;Jean-Camille;SAVARIT;M;jean-camille.savarit@centralesupelec.fr;member;Cheer Up;une association qui accompagne des jeunes de 15 à 25 ans malades du cancer et les aide à réaliser leur projet
+6000154;Jean-Camille;SAVARIT;M;jean-camille.savarit@centralesupelec.fr;member;Sono;
+6172402;Humbert;BOISIAUD;garçon;humbert.boisiaud@centralesupelec.fr;member;Barco;installation et exploitation de materiel video
+6172402;Humbert;BOISIAUD;garçon;humbert.boisiaud@centralesupelec.fr;member;Cheer Up;une association qui accompagne des jeunes de 15 à 25 ans malades du cancer et les aide à réaliser leur projet
+6172402;Humbert;BOISIAUD;garçon;humbert.boisiaud@centralesupelec.fr;member;SBCS;Composé des deux associations (Sono et Barco), cette association...
+3029679;Cendrine;DUCHENE;fille;cendrine.duchene@centralesupelec.fr;member;Cheer Up;une association qui accompagne des jeunes de 15 à 25 ans malades du cancer et les aide à réaliser leur projet
+1533193;Joachim;JUBERT;H;joachim.jubert@centralesupelec.fr;member;Cheer Up;une association qui accompagne des jeunes de 15 à 25 ans malades du cancer et les aide à réaliser leur projet
+1533193;Joachim;JUBERT;H;joachim.jubert@centralesupelec.fr;member;Sono;
+1533193;Joachim;JUBERT;H;joachim.jubert@centralesupelec.fr;member;Toucan Déchaîné;le journal de l'école, impartial et omniscient, il est au coeur de l'actualité et n'hésite pas à révéler les plus grands scandales
+3744587;Mickaël;LIZEE;H;mickael.lizee@centralesupelec.fr;member;Sono;
+3744587;Mickaël;LIZEE;H;mickael.lizee@centralesupelec.fr;member;Band'à Joe;la fanfare, où tout le monde débute un instrument et qui organise des voyages dans la France et l'Europe pour jouer de la musique
+3744587;Mickaël;LIZEE;H;mickael.lizee@centralesupelec.fr;member;Impact;
+5320916;Alison;GOUBAULT;fille;alison.goubault@centralesupelec.fr;member;BDE;représente les élèves de CentraleSupélec auprès de la direction et coordonne la vie associative sur le campus
+1997966;Marylène;CHAUVIERE;fille;marylene.chauviere@centralesupelec.fr;member;Cheer Up;une association qui accompagne des jeunes de 15 à 25 ans malades du cancer et les aide à réaliser leur projet
+1997966;Marylène;CHAUVIERE;fille;marylene.chauviere@centralesupelec.fr;member;BDA;l’asso qui s’occupe de tout ce qui est artistique sur le campus. Ça passe par l’organisation d’évènements tout au long de l’année, la gestion de Clubs artistes dans de nombreux domaines différents et la mise en place d’une billetterie en ligne permettant d’avoir des tarifs préférentiels dans des salles de spectacle parisiennes.
+1997966;Marylène;CHAUVIERE;fille;marylene.chauviere@centralesupelec.fr;member;Barco;installation et exploitation de materiel video
+1057577;Janine;LEBLANC;W;janine.leblanc@centralesupelec.fr;member;Junior CentraleSupelec (JCS);Junior Entreprise de CS, cette association d'étudiants a vocation économique et pédagogique mais a but non lucratif permet aux eleves de monter en compétences en leur proposant de réaliser des missions pour des clients
+1057577;Janine;LEBLANC;W;janine.leblanc@centralesupelec.fr;member;FACS;Fédération d'associations de CS, cadre légal et financier d'une partie de l'associatif de CentraleSupélec, distribue des subventions et organise la coopération entre les associations
+1057577;Janine;LEBLANC;W;janine.leblanc@centralesupelec.fr;member;Toucan Déchaîné;le journal de l'école, impartial et omniscient, il est au coeur de l'actualité et n'hésite pas à révéler les plus grands scandales
+4633219;Francisca;ROYER;W;francisca.royer@centralesupelec.fr;member;Impact;
+1966837;Stéphanie;RICHARD;H;stephanie.richard@centralesupelec.fr;member;Cheer Up;une association qui accompagne des jeunes de 15 à 25 ans malades du cancer et les aide à réaliser leur projet
+8106108;Madeleine;PREZELIN;W;madeleine.prezelin@centralesupelec.fr;member;Band'à Joe;la fanfare, où tout le monde débute un instrument et qui organise des voyages dans la France et l'Europe pour jouer de la musique
+1129949;Monika;CHRETIEN;F;monika.chretien@centralesupelec.fr;member;BDA;l’asso qui s’occupe de tout ce qui est artistique sur le campus. Ça passe par l’organisation d’évènements tout au long de l’année, la gestion de Clubs artistes dans de nombreux domaines différents et la mise en place d’une billetterie en ligne permettant d’avoir des tarifs préférentiels dans des salles de spectacle parisiennes.
+1129949;Monika;CHRETIEN;F;monika.chretien@centralesupelec.fr;member;Barco;installation et exploitation de materiel video
+1129949;Monika;CHRETIEN;F;monika.chretien@centralesupelec.fr;member;Junior CentraleSupelec (JCS);Junior Entreprise de CS, cette association d'étudiants a vocation économique et pédagogique mais a but non lucratif permet aux eleves de monter en compétences en leur proposant de réaliser des missions pour des clients
+3242801;Marie Anne;MICHEL;F;marie anne.michel@centralesupelec.fr;member;BDA;l’asso qui s’occupe de tout ce qui est artistique sur le campus. Ça passe par l’organisation d’évènements tout au long de l’année, la gestion de Clubs artistes dans de nombreux domaines différents et la mise en place d’une billetterie en ligne permettant d’avoir des tarifs préférentiels dans des salles de spectacle parisiennes.
+3242801;Marie Anne;MICHEL;F;marie anne.michel@centralesupelec.fr;member;SBCS;Composé des deux associations (Sono et Barco), cette association...
+3242801;Marie Anne;MICHEL;F;marie anne.michel@centralesupelec.fr;member;Junior CentraleSupelec (JCS);Junior Entreprise de CS, cette association d'étudiants a vocation économique et pédagogique mais a but non lucratif permet aux eleves de monter en compétences en leur proposant de réaliser des missions pour des clients
+3344822;Arlette;RENIER;W;arlette.renier@centralesupelec.fr;member;FACS;Fédération d'associations de CS, cadre légal et financier d'une partie de l'associatif de CentraleSupélec, distribue des subventions et organise la coopération entre les associations
+9169627;Mostafa;RIVAULT;H;mostafa.rivault@centralesupelec.fr;member;Barco;installation et exploitation de materiel video
+9169627;Mostafa;RIVAULT;H;mostafa.rivault@centralesupelec.fr;member;Cheer Up;une association qui accompagne des jeunes de 15 à 25 ans malades du cancer et les aide à réaliser leur projet
+9169627;Mostafa;RIVAULT;H;mostafa.rivault@centralesupelec.fr;member;Band'à Joe;la fanfare, où tout le monde débute un instrument et qui organise des voyages dans la France et l'Europe pour jouer de la musique
+3900976;Amel;ROUMY;W;amel.roumy@centralesupelec.fr;member;Junior CentraleSupelec (JCS);Junior Entreprise de CS, cette association d'étudiants a vocation économique et pédagogique mais a but non lucratif permet aux eleves de monter en compétences en leur proposant de réaliser des missions pour des clients
+3900976;Amel;ROUMY;W;amel.roumy@centralesupelec.fr;member;Sono;
+9929295;Anicette;LE GAL;F;anicette.le gal@centralesupelec.fr;member;BDA;l’asso qui s’occupe de tout ce qui est artistique sur le campus. Ça passe par l’organisation d’évènements tout au long de l’année, la gestion de Clubs artistes dans de nombreux domaines différents et la mise en place d’une billetterie en ligne permettant d’avoir des tarifs préférentiels dans des salles de spectacle parisiennes.
+9929295;Anicette;LE GAL;F;anicette.le gal@centralesupelec.fr;member;Barco;installation et exploitation de materiel video
+9929295;Anicette;LE GAL;F;anicette.le gal@centralesupelec.fr;member;SBCS;Composé des deux associations (Sono et Barco), cette association...
+3733132;Alcide;DEHOUX;H;alcide.dehoux@centralesupelec.fr;member;Toucan Déchaîné;le journal de l'école, impartial et omniscient, il est au coeur de l'actualité et n'hésite pas à révéler les plus grands scandales
+473899;Marie-Pierre;ROBICHON;M;marie-pierre.robichon@centralesupelec.fr;member;Cheer Up;une association qui accompagne des jeunes de 15 à 25 ans malades du cancer et les aide à réaliser leur projet
+9340961;Marie-Aline;NAULET;F;marie-aline.naulet@centralesupelec.fr;member;Junior CentraleSupelec (JCS);Junior Entreprise de CS, cette association d'étudiants a vocation économique et pédagogique mais a but non lucratif permet aux eleves de monter en compétences en leur proposant de réaliser des missions pour des clients
+9340961;Marie-Aline;NAULET;F;marie-aline.naulet@centralesupelec.fr;member;Impact;
+1115480;Christine;ALLORY;M;christine.allory@centralesupelec.fr;member;SBCS;Composé des deux associations (Sono et Barco), cette association...
+8699889;Marceline;CHEVROLLIER;F;marceline.chevrollier@centralesupelec.fr;member;Cheer Up;une association qui accompagne des jeunes de 15 à 25 ans malades du cancer et les aide à réaliser leur projet
+8699889;Marceline;CHEVROLLIER;F;marceline.chevrollier@centralesupelec.fr;member;SBCS;Composé des deux associations (Sono et Barco), cette association...
+8699889;Marceline;CHEVROLLIER;F;marceline.chevrollier@centralesupelec.fr;member;Junior CentraleSupelec (JCS);Junior Entreprise de CS, cette association d'étudiants a vocation économique et pédagogique mais a but non lucratif permet aux eleves de monter en compétences en leur proposant de réaliser des missions pour des clients
+4240872;Patricia;LHOMMEAU;F;patricia.lhommeau@centralesupelec.fr;member;Cheer Up;une association qui accompagne des jeunes de 15 à 25 ans malades du cancer et les aide à réaliser leur projet
+4240872;Patricia;LHOMMEAU;F;patricia.lhommeau@centralesupelec.fr;member;BDE;représente les élèves de CentraleSupélec auprès de la direction et coordonne la vie associative sur le campus
+507855;Danielle;PRUDHOMME;M;danielle.prudhomme@centralesupelec.fr;member;SBCS;Composé des deux associations (Sono et Barco), cette association...
+801225;Jean Charles;CHEVRE;M;jean charles.chevre@centralesupelec.fr;member;Impact;
+801225;Jean Charles;CHEVRE;M;jean charles.chevre@centralesupelec.fr;member;Junior CentraleSupelec (JCS);Junior Entreprise de CS, cette association d'étudiants a vocation économique et pédagogique mais a but non lucratif permet aux eleves de monter en compétences en leur proposant de réaliser des missions pour des clients
+9401226;Pilar;GUICHARD;W;pilar.guichard@centralesupelec.fr;member;Toucan Déchaîné;le journal de l'école, impartial et omniscient, il est au coeur de l'actualité et n'hésite pas à révéler les plus grands scandales
+4776029;Héloïse;LEMASSON;fille;heloise.lemasson@centralesupelec.fr;member;Toucan Déchaîné;le journal de l'école, impartial et omniscient, il est au coeur de l'actualité et n'hésite pas à révéler les plus grands scandales
+5499132;Dominique;RONCIER;garçon;dominique.roncier@centralesupelec.fr;member;Impact;
+268237;Annonciade;BRU;W;annonciade.bru@centralesupelec.fr;member;FACS;Fédération d'associations de CS, cadre légal et financier d'une partie de l'associatif de CentraleSupélec, distribue des subventions et organise la coopération entre les associations
+268237;Annonciade;BRU;W;annonciade.bru@centralesupelec.fr;member;Band'à Joe;la fanfare, où tout le monde débute un instrument et qui organise des voyages dans la France et l'Europe pour jouer de la musique
+6897722;Cécile;JEANNEAU;M;cecile.jeanneau@centralesupelec.fr;member;FACS;Fédération d'associations de CS, cadre légal et financier d'une partie de l'associatif de CentraleSupélec, distribue des subventions et organise la coopération entre les associations
+9956934;Félicie;ALAIN;F;felicie.alain@centralesupelec.fr;member;FACS;Fédération d'associations de CS, cadre légal et financier d'une partie de l'associatif de CentraleSupélec, distribue des subventions et organise la coopération entre les associations
+9956934;Félicie;ALAIN;F;felicie.alain@centralesupelec.fr;member;Impact;
+3428204;Jean-Vincent;PINIER;H;jean-vincent.pinier@centralesupelec.fr;member;SBCS;Composé des deux associations (Sono et Barco), cette association...
+3428204;Jean-Vincent;PINIER;H;jean-vincent.pinier@centralesupelec.fr;member;BDE;représente les élèves de CentraleSupélec auprès de la direction et coordonne la vie associative sur le campus
+883663;Anne Sophie;BARRE;F;anne sophie.barre@centralesupelec.fr;member;SBCS;Composé des deux associations (Sono et Barco), cette association...
+883663;Anne Sophie;BARRE;F;anne sophie.barre@centralesupelec.fr;member;FACS;Fédération d'associations de CS, cadre légal et financier d'une partie de l'associatif de CentraleSupélec, distribue des subventions et organise la coopération entre les associations
+103153;Annette;BREBION;W;annette.brebion@centralesupelec.fr;member;BDE;représente les élèves de CentraleSupélec auprès de la direction et coordonne la vie associative sur le campus
+2077485;Joannès;ESNAULT;garçon;joannes.esnault@centralesupelec.fr;member;Cheer Up;une association qui accompagne des jeunes de 15 à 25 ans malades du cancer et les aide à réaliser leur projet
+2077485;Joannès;ESNAULT;garçon;joannes.esnault@centralesupelec.fr;member;Impact;
+2077485;Joannès;ESNAULT;garçon;joannes.esnault@centralesupelec.fr;member;Toucan Déchaîné;le journal de l'école, impartial et omniscient, il est au coeur de l'actualité et n'hésite pas à révéler les plus grands scandales
+9782076;Toussaint;BILLARD;M;toussaint.billard@centralesupelec.fr;member;BDA;l’asso qui s’occupe de tout ce qui est artistique sur le campus. Ça passe par l’organisation d’évènements tout au long de l’année, la gestion de Clubs artistes dans de nombreux domaines différents et la mise en place d’une billetterie en ligne permettant d’avoir des tarifs préférentiels dans des salles de spectacle parisiennes.
+7199569;France;LEON;M;france.leon@centralesupelec.fr;member;Junior CentraleSupelec (JCS);Junior Entreprise de CS, cette association d'étudiants a vocation économique et pédagogique mais a but non lucratif permet aux eleves de monter en compétences en leur proposant de réaliser des missions pour des clients
+7199569;France;LEON;M;france.leon@centralesupelec.fr;member;Toucan Déchaîné;le journal de l'école, impartial et omniscient, il est au coeur de l'actualité et n'hésite pas à révéler les plus grands scandales
+7199569;France;LEON;M;france.leon@centralesupelec.fr;member;FACS;Fédération d'associations de CS, cadre légal et financier d'une partie de l'associatif de CentraleSupélec, distribue des subventions et organise la coopération entre les associations
+108966;Noëlle;CHOLEAU;W;noelle.choleau@centralesupelec.fr;member;Cheer Up;une association qui accompagne des jeunes de 15 à 25 ans malades du cancer et les aide à réaliser leur projet
+108966;Noëlle;CHOLEAU;W;noelle.choleau@centralesupelec.fr;member;Barco;installation et exploitation de materiel video
+7664126;Colombe;LORENDEAU;F;colombe.lorendeau@centralesupelec.fr;member;Cheer Up;une association qui accompagne des jeunes de 15 à 25 ans malades du cancer et les aide à réaliser leur projet
+7664126;Colombe;LORENDEAU;F;colombe.lorendeau@centralesupelec.fr;member;BDA;l’asso qui s’occupe de tout ce qui est artistique sur le campus. Ça passe par l’organisation d’évènements tout au long de l’année, la gestion de Clubs artistes dans de nombreux domaines différents et la mise en place d’une billetterie en ligne permettant d’avoir des tarifs préférentiels dans des salles de spectacle parisiennes.
+7962855;Marie-Rose;JOLY;fille;marie-rose.joly@centralesupelec.fr;member;Sono;
+7962855;Marie-Rose;JOLY;fille;marie-rose.joly@centralesupelec.fr;member;Impact;
+7962855;Marie-Rose;JOLY;fille;marie-rose.joly@centralesupelec.fr;member;Barco;installation et exploitation de materiel video
+4881043;Emile;CLENET;M;emile.clenet@centralesupelec.fr;member;Cheer Up;une association qui accompagne des jeunes de 15 à 25 ans malades du cancer et les aide à réaliser leur projet
+4881043;Emile;CLENET;M;emile.clenet@centralesupelec.fr;member;FACS;Fédération d'associations de CS, cadre légal et financier d'une partie de l'associatif de CentraleSupélec, distribue des subventions et organise la coopération entre les associations
+2770248;Graziella;VIOLLEAU;W;graziella.violleau@centralesupelec.fr;member;BDE;représente les élèves de CentraleSupélec auprès de la direction et coordonne la vie associative sur le campus
+2770248;Graziella;VIOLLEAU;W;graziella.violleau@centralesupelec.fr;member;BDA;l’asso qui s’occupe de tout ce qui est artistique sur le campus. Ça passe par l’organisation d’évènements tout au long de l’année, la gestion de Clubs artistes dans de nombreux domaines différents et la mise en place d’une billetterie en ligne permettant d’avoir des tarifs préférentiels dans des salles de spectacle parisiennes.
+2770248;Graziella;VIOLLEAU;W;graziella.violleau@centralesupelec.fr;member;FACS;Fédération d'associations de CS, cadre légal et financier d'une partie de l'associatif de CentraleSupélec, distribue des subventions et organise la coopération entre les associations
+243144;Baptiste;CLENET;M;baptiste.clenet@centralesupelec.fr;member;Sono;
+243144;Baptiste;CLENET;M;baptiste.clenet@centralesupelec.fr;member;Barco;installation et exploitation de materiel video
+243144;Baptiste;CLENET;M;baptiste.clenet@centralesupelec.fr;member;Band'à Joe;la fanfare, où tout le monde débute un instrument et qui organise des voyages dans la France et l'Europe pour jouer de la musique
+6107913;Marie-Françoise;GAUTIER;W;marie-francoise.gautier@centralesupelec.fr;member;FACS;Fédération d'associations de CS, cadre légal et financier d'une partie de l'associatif de CentraleSupélec, distribue des subventions et organise la coopération entre les associations
+6107913;Marie-Françoise;GAUTIER;W;marie-francoise.gautier@centralesupelec.fr;member;BDE;représente les élèves de CentraleSupélec auprès de la direction et coordonne la vie associative sur le campus
+8793782;Manon;LUSSEAU;fille;manon.lusseau@centralesupelec.fr;member;Band'à Joe;la fanfare, où tout le monde débute un instrument et qui organise des voyages dans la France et l'Europe pour jouer de la musique
+8793782;Manon;LUSSEAU;fille;manon.lusseau@centralesupelec.fr;member;SBCS;Composé des deux associations (Sono et Barco), cette association...
+7043760;Jean-Henri;GRASSET;garçon;jean-henri.grasset@centralesupelec.fr;member;Band'à Joe;la fanfare, où tout le monde débute un instrument et qui organise des voyages dans la France et l'Europe pour jouer de la musique
+5806187;Philip;POITOU;garçon;philip.poitou@centralesupelec.fr;member;Cheer Up;une association qui accompagne des jeunes de 15 à 25 ans malades du cancer et les aide à réaliser leur projet
+1074376;Josie;GRELET;F;josie.grelet@centralesupelec.fr;member;BDA;l’asso qui s’occupe de tout ce qui est artistique sur le campus. Ça passe par l’organisation d’évènements tout au long de l’année, la gestion de Clubs artistes dans de nombreux domaines différents et la mise en place d’une billetterie en ligne permettant d’avoir des tarifs préférentiels dans des salles de spectacle parisiennes.
+1074376;Josie;GRELET;F;josie.grelet@centralesupelec.fr;member;Impact;
+6811689;Jean-Alain;CHOLEAU;H;jean-alain.choleau@centralesupelec.fr;member;Cheer Up;une association qui accompagne des jeunes de 15 à 25 ans malades du cancer et les aide à réaliser leur projet
+5222144;Laurent;CUSSONNEAU;M;laurent.cussonneau@centralesupelec.fr;member;Cheer Up;une association qui accompagne des jeunes de 15 à 25 ans malades du cancer et les aide à réaliser leur projet
+9816486;Irénée;PAPIN;M;irenee.papin@centralesupelec.fr;member;Band'à Joe;la fanfare, où tout le monde débute un instrument et qui organise des voyages dans la France et l'Europe pour jouer de la musique
+9816486;Irénée;PAPIN;M;irenee.papin@centralesupelec.fr;member;BDA;l’asso qui s’occupe de tout ce qui est artistique sur le campus. Ça passe par l’organisation d’évènements tout au long de l’année, la gestion de Clubs artistes dans de nombreux domaines différents et la mise en place d’une billetterie en ligne permettant d’avoir des tarifs préférentiels dans des salles de spectacle parisiennes.
+8386950;Martina;LEGEAI;F;martina.legeai@centralesupelec.fr;member;SBCS;Composé des deux associations (Sono et Barco), cette association...
+8386950;Martina;LEGEAI;F;martina.legeai@centralesupelec.fr;member;Toucan Déchaîné;le journal de l'école, impartial et omniscient, il est au coeur de l'actualité et n'hésite pas à révéler les plus grands scandales
+8386950;Martina;LEGEAI;F;martina.legeai@centralesupelec.fr;member;FACS;Fédération d'associations de CS, cadre légal et financier d'une partie de l'associatif de CentraleSupélec, distribue des subventions et organise la coopération entre les associations
+2755407;Taoufik;LEBLOND;M;taoufik.leblond@centralesupelec.fr;member;Cheer Up;une association qui accompagne des jeunes de 15 à 25 ans malades du cancer et les aide à réaliser leur projet
+2755407;Taoufik;LEBLOND;M;taoufik.leblond@centralesupelec.fr;member;SBCS;Composé des deux associations (Sono et Barco), cette association...
+2755407;Taoufik;LEBLOND;M;taoufik.leblond@centralesupelec.fr;member;Sono;
+9280128;Cathy;POISSON;garçon;cathy.poisson@centralesupelec.fr;member;BDE;représente les élèves de CentraleSupélec auprès de la direction et coordonne la vie associative sur le campus
+9280128;Cathy;POISSON;garçon;cathy.poisson@centralesupelec.fr;member;Toucan Déchaîné;le journal de l'école, impartial et omniscient, il est au coeur de l'actualité et n'hésite pas à révéler les plus grands scandales
+3564997;Herve;BOUCHARD;H;herve.bouchard@centralesupelec.fr;member;FACS;Fédération d'associations de CS, cadre légal et financier d'une partie de l'associatif de CentraleSupélec, distribue des subventions et organise la coopération entre les associations
+1804452;Etienne;BAHUAUD;M;etienne.bahuaud@centralesupelec.fr;member;Impact;
+1804452;Etienne;BAHUAUD;M;etienne.bahuaud@centralesupelec.fr;member;SBCS;Composé des deux associations (Sono et Barco), cette association...
+5736205;Jean-Yves;CONGNARD;H;jean-yves.congnard@centralesupelec.fr;member;Band'à Joe;la fanfare, où tout le monde débute un instrument et qui organise des voyages dans la France et l'Europe pour jouer de la musique
+7322563;Yvonnick;VIGNERON;M;yvonnick.vigneron@centralesupelec.fr;member;Junior CentraleSupelec (JCS);Junior Entreprise de CS, cette association d'étudiants a vocation économique et pédagogique mais a but non lucratif permet aux eleves de monter en compétences en leur proposant de réaliser des missions pour des clients
+7322563;Yvonnick;VIGNERON;M;yvonnick.vigneron@centralesupelec.fr;member;FACS;Fédération d'associations de CS, cadre légal et financier d'une partie de l'associatif de CentraleSupélec, distribue des subventions et organise la coopération entre les associations
+2053184;Jocelyn;BIOTEAU;garçon;jocelyn.bioteau@centralesupelec.fr;member;Junior CentraleSupelec (JCS);Junior Entreprise de CS, cette association d'étudiants a vocation économique et pédagogique mais a but non lucratif permet aux eleves de monter en compétences en leur proposant de réaliser des missions pour des clients
+2053184;Jocelyn;BIOTEAU;garçon;jocelyn.bioteau@centralesupelec.fr;member;Toucan Déchaîné;le journal de l'école, impartial et omniscient, il est au coeur de l'actualité et n'hésite pas à révéler les plus grands scandales
+6092537;Mostafa;PAILLAT;H;mostafa.paillat@centralesupelec.fr;member;FACS;Fédération d'associations de CS, cadre légal et financier d'une partie de l'associatif de CentraleSupélec, distribue des subventions et organise la coopération entre les associations
+6092537;Mostafa;PAILLAT;H;mostafa.paillat@centralesupelec.fr;member;Band'à Joe;la fanfare, où tout le monde débute un instrument et qui organise des voyages dans la France et l'Europe pour jouer de la musique
+6092537;Mostafa;PAILLAT;H;mostafa.paillat@centralesupelec.fr;member;Sono;
+9565886;Marie-Jane;GAUTIER;F;marie-jane.gautier@centralesupelec.fr;member;BDE;représente les élèves de CentraleSupélec auprès de la direction et coordonne la vie associative sur le campus
+1407205;Francine;ROINE;M;francine.roine@centralesupelec.fr;member;Junior CentraleSupelec (JCS);Junior Entreprise de CS, cette association d'étudiants a vocation économique et pédagogique mais a but non lucratif permet aux eleves de monter en compétences en leur proposant de réaliser des missions pour des clients
+8624912;Ange;BOURREAU;garçon;ange.bourreau@centralesupelec.fr;member;Band'à Joe;la fanfare, où tout le monde débute un instrument et qui organise des voyages dans la France et l'Europe pour jouer de la musique
+1322844;Jean-Albert;GUICHARD;H;jean-albert.guichard@centralesupelec.fr;member;Band'à Joe;la fanfare, où tout le monde débute un instrument et qui organise des voyages dans la France et l'Europe pour jouer de la musique
+1322844;Jean-Albert;GUICHARD;H;jean-albert.guichard@centralesupelec.fr;member;Toucan Déchaîné;le journal de l'école, impartial et omniscient, il est au coeur de l'actualité et n'hésite pas à révéler les plus grands scandales
+1322844;Jean-Albert;GUICHARD;H;jean-albert.guichard@centralesupelec.fr;member;Junior CentraleSupelec (JCS);Junior Entreprise de CS, cette association d'étudiants a vocation économique et pédagogique mais a but non lucratif permet aux eleves de monter en compétences en leur proposant de réaliser des missions pour des clients
+9065722;Clément;DIDIER;H;clement.didier@centralesupelec.fr;member;SBCS;Composé des deux associations (Sono et Barco), cette association...
+9065722;Clément;DIDIER;H;clement.didier@centralesupelec.fr;member;Junior CentraleSupelec (JCS);Junior Entreprise de CS, cette association d'étudiants a vocation économique et pédagogique mais a but non lucratif permet aux eleves de monter en compétences en leur proposant de réaliser des missions pour des clients
+9065722;Clément;DIDIER;H;clement.didier@centralesupelec.fr;member;Toucan Déchaîné;le journal de l'école, impartial et omniscient, il est au coeur de l'actualité et n'hésite pas à révéler les plus grands scandales
+715601;Rénald;BELLION;H;renald.bellion@centralesupelec.fr;member;Cheer Up;une association qui accompagne des jeunes de 15 à 25 ans malades du cancer et les aide à réaliser leur projet
+715601;Rénald;BELLION;H;renald.bellion@centralesupelec.fr;member;SBCS;Composé des deux associations (Sono et Barco), cette association...
+8250155;Charlène;CONSTANTIN;fille;charlene.constantin@centralesupelec.fr;member;Band'à Joe;la fanfare, où tout le monde débute un instrument et qui organise des voyages dans la France et l'Europe pour jouer de la musique
+1590418;Mariana;AUVINET;F;mariana.auvinet@centralesupelec.fr;member;SBCS;Composé des deux associations (Sono et Barco), cette association...
+730483;Bruna;HEMERY;fille;bruna.hemery@centralesupelec.fr;member;Band'à Joe;la fanfare, où tout le monde débute un instrument et qui organise des voyages dans la France et l'Europe pour jouer de la musique
+730483;Bruna;HEMERY;fille;bruna.hemery@centralesupelec.fr;member;FACS;Fédération d'associations de CS, cadre légal et financier d'une partie de l'associatif de CentraleSupélec, distribue des subventions et organise la coopération entre les associations
+3484804;Marielle;GRIVAULT;W;marielle.grivault@centralesupelec.fr;member;BDA;l’asso qui s’occupe de tout ce qui est artistique sur le campus. Ça passe par l’organisation d’évènements tout au long de l’année, la gestion de Clubs artistes dans de nombreux domaines différents et la mise en place d’une billetterie en ligne permettant d’avoir des tarifs préférentiels dans des salles de spectacle parisiennes.
+3484804;Marielle;GRIVAULT;W;marielle.grivault@centralesupelec.fr;member;SBCS;Composé des deux associations (Sono et Barco), cette association...
+7099660;Amédée;ANTIER;garçon;amedee.antier@centralesupelec.fr;member;Impact;
+7099660;Amédée;ANTIER;garçon;amedee.antier@centralesupelec.fr;member;BDA;l’asso qui s’occupe de tout ce qui est artistique sur le campus. Ça passe par l’organisation d’évènements tout au long de l’année, la gestion de Clubs artistes dans de nombreux domaines différents et la mise en place d’une billetterie en ligne permettant d’avoir des tarifs préférentiels dans des salles de spectacle parisiennes.
+7099660;Amédée;ANTIER;garçon;amedee.antier@centralesupelec.fr;member;FACS;Fédération d'associations de CS, cadre légal et financier d'une partie de l'associatif de CentraleSupélec, distribue des subventions et organise la coopération entre les associations
+1642443;Marie Jose;LEGRAND;F;marie jose.legrand@centralesupelec.fr;member;BDA;l’asso qui s’occupe de tout ce qui est artistique sur le campus. Ça passe par l’organisation d’évènements tout au long de l’année, la gestion de Clubs artistes dans de nombreux domaines différents et la mise en place d’une billetterie en ligne permettant d’avoir des tarifs préférentiels dans des salles de spectacle parisiennes.
+1642443;Marie Jose;LEGRAND;F;marie jose.legrand@centralesupelec.fr;member;Sono;
+7456381;Germinal;DESGRE;M;germinal.desgre@centralesupelec.fr;member;SBCS;Composé des deux associations (Sono et Barco), cette association...
+4184809;Victoire;HARDOU;fille;victoire.hardou@centralesupelec.fr;member;FACS;Fédération d'associations de CS, cadre légal et financier d'une partie de l'associatif de CentraleSupélec, distribue des subventions et organise la coopération entre les associations
+4184809;Victoire;HARDOU;fille;victoire.hardou@centralesupelec.fr;member;Cheer Up;une association qui accompagne des jeunes de 15 à 25 ans malades du cancer et les aide à réaliser leur projet
+4184809;Victoire;HARDOU;fille;victoire.hardou@centralesupelec.fr;member;Impact;
